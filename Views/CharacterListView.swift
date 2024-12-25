@@ -31,10 +31,17 @@ struct CharacterListView: View {
                     .padding()
             } else {
                 List(filteredCharacters) { character in
-                    NavigationLink(destination: CharacterDetailView(character: character)) {
+                    NavigationLink(destination: CharacterDetailView(character: character, allCharacters: charactersViewModel.characters)) {
                         Text(character.name)
+                            .padding(.vertical, 8)
+                            .frame(maxWidth: .infinity, alignment: .leading) // Ensure text spans the full width
+                            .background(Color.white) // Optional background for better visuals
                     }
+                    .listRowInsets(EdgeInsets()) // Removes default insets
                 }
+                .listStyle(PlainListStyle()) // Adjusts list style if needed
+
+
             }
         }
         .navigationTitle(book.name)
