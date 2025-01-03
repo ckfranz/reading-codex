@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Wheel-of-Time-DKS-Fires-of-Heaven.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
