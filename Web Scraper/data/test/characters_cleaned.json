@@ -1,0 +1,1815 @@
+[
+  {
+    "id": "Lews-Therin-Telamon",
+    "name": "Lews Therin Telamon",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. ix (x)",
+    "info": "The [Dragon](#Dragon), [Lord of the Morning](#Lord-of-the-Morning), [Kinslayer](#Kinslayer), Breaker of the World. He is a tall man just into his middle years. He was handsome once, but now he has more white hair than brown, and his face is lined from strain and worry. He has dark eyes. Known as the [Dragon](#Dragon) during the War of the Shadow. He killed his entire family in the madness that seized him after resealing the Dark One's prison."
+  },
+  {
+    "id": "Ilyena-Therin-Moerelle",
+    "name": "Ilyena Therin Moerelle",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. ix (x)",
+    "info": "Wife of [Lews Therin Telamon](#Lews-Therin-Telamon). She has blond hair. She was called “Sunhair.” She died along with her children when her insane husband killed them, and her."
+  },
+  {
+    "id": "Lord-of-the-Morning",
+    "name": "Lord of the Morning",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. x (x)",
+    "info": "Title by which [Lews Therin Telamon](#Lews-Therin-Telamon) was known by during the Age of Legends and the War of Power."
+  },
+  {
+    "id": "Shai-tan",
+    "name": "Shai’tan",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. x",
+    "info": "Source of all evil, antithesis of the [Creator](#Creator). He was imprisoned by the [Creator](#Creator) at the moment of Creation at Shayol Ghul. This prison was bored into during the Age of Legends, which led to the War of the Shadow, the Time of Madness, the Breaking of the World, and the end of the Age of Legends. Since naming him by his true name brings ill fortune or disaster, many euphemisms exist, including Father of Lies, Grassburner, Heartsbane, Heartfang, Leafblighter, Lord of the Grave, Shepherd of the Night, Sightblinder, and Soulsbane. He is most commonly referred to as simply “The Dark One.”"
+  },
+  {
+    "id": "Elan-Morin-Tedronai",
+    "name": "Elan Morin Tedronai",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. x (xi)",
+    "info": "Man who appears to [Lews Therin Telamon](#Lews-Therin-Telamon) shortly after he killed his entire family. He Healed Lews Therin from his madness, allowing him to finally realize what he had done. Elan Morin is now known as [Ishamael](#Ishamael), which means “ [Betrayer of Hope](#Betrayer-of-Hope) ” in the Old Tongue. He claims to follow a “different power” now, that of the Dark One himself. He was once humbled by Lews Therin in the Hall of Servants, and defeated by him at the gates of Paaren Disen. However, Lews Therin fled and killed himself before Elan Morin could do with him as he had planned."
+  },
+  {
+    "id": "Betrayer-of-Hope",
+    "name": "Betrayer of Hope",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. x (xi)",
+    "info": "See [Ishamael](#Ishamael). The [Dragon](#Dragon), Name given to [Lews Therin Telamon](#Lews-Therin-Telamon) during the War of the Shadow. He did not like the name. The name is now associated with evil, since Lews Therin killed his entire family in his madness at the end of his life. It is said the [Dragon](#Dragon) will be Reborn at mankind’s greatest hour of need to save the world—and Break it again."
+  },
+  {
+    "id": "Dragon",
+    "name": "Dragon",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. xi",
+    "info": "The Name given to [Lews Therin Telamon](#Lews-Therin-Telamon) during the War of the Shadow. He did not like the name. The name is now associated with evil, since Lews Therin killed his entire family in his madness at the end of his life. It is said the Dragon will be Reborn at mankind’s greatest hour of need to save the world—and Break it again."
+  },
+  {
+    "id": "Kinslayer",
+    "name": "Kinslayer",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. xi",
+    "info": "New name given to [Lews Therin Telamon](#Lews-Therin-Telamon) after he massacred his entire family and everyone he ever loved in his madness."
+  },
+  {
+    "id": "Tamyrlin",
+    "name": "Tamyrlin",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. xi",
+    "info": "Title [Lews Therin Telamon](#Lews-Therin-Telamon) wore the ring of. It is likely this position was the predecessor of the modern [Amyrlin Seat](#Amyrlin-Seat)."
+  },
+  {
+    "id": "Great-Lord-of-the-Dark",
+    "name": "Great Lord of the Dark",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. xii",
+    "info": "Name used by Darkfriends to refer to [Shai’tan](#Shai-tan), the Dark One; they claim that to use his true name would be blasphemy. See [Shai’tan](#Shai-tan). The [Creator](#Creator), Maker of the world, the True Source, everything in existence. At the moment of Creation, the [Creator](#Creator) sealed the Dark One in a prison at Shayol Ghul to keep him from influencing the world."
+  },
+  {
+    "id": "Creator",
+    "name": "Creator",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. xiii",
+    "info": "The Maker of the world, the True Source, everything in existence. At the moment of Creation, the Creator sealed the Dark One in a prison at Shayol Ghul to keep him from influencing the world."
+  },
+  {
+    "id": "Promised-One",
+    "name": "Promised One",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. xv",
+    "info": "Name used in prophecies to refer to the [Dragon](#Dragon) Reborn , the man foretold to come at mankind’s greatest hour of need to save the world."
+  },
+  {
+    "id": "Prince-of-the-Morning",
+    "name": "Prince of the Morning",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. xv",
+    "info": "Title referring to the [Dragon](#Dragon) Reborn , in reference to the Rebirth of the [Lord of the Morning](#Lord-of-the-Morning), [Lews Therin Telamon](#Lews-Therin-Telamon)."
+  },
+  {
+    "id": "Lord-of-the-Dawn",
+    "name": "Lord of the Dawn",
+    "chapter": "Prologue: Dragonmount",
+    "page": "p. xv",
+    "info": "Alternative use of the title [Lord of the Morning](#Lord-of-the-Morning). See [Dragon](#Dragon), The ; [Lord of the Morning](#Lord-of-the-Morning)."
+  },
+  {
+    "id": "Egwene-al-Vere",
+    "name": "Egwene al’Vere",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 5 [1]",
+    "info": "A nine-year-old girl from Emond’s Field. She is the daughter of Bran , the Mayor of Emond’s Field, and his wife Marin . Egwene has four older sisters; Berowyn , Alene , Elisa , and Loise ; and resents them at times for treating her as the baby of the family. Egwene dislikes dogs, and is not considered big for her age. She loves her village and its customs, but she is beginning to wonder what the world outside it is like. After reaching the age of eighteen, Egwene earns the right to wear her hair in a braid for the first time, the Two Rivers symbol of womanhood. She has large brown eyes. She and Rand have been all but Promised to each other since she was nine; this makes him uncomfortable. Nynaeve discovered that Egwene has the ability to Listen to the [Wind](#Wind), a Talent that all Wisdoms claim to possess but few actually do."
+  },
+  {
+    "id": "Kenley-Ahan",
+    "name": "Kenley Ahan",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [2]",
+    "info": "A boy from Emond’s Field in the Two Rivers. He is about two years older than Egwene , making him eleven years old. [Widow Aynal](#Widow-Aynal), Woman for which [Widow Aynal](#Widow-Aynal)’s Meadow is named. No one remembers which Aynal widow it was actually named for; the meadow has been called that as long as anyone can remember. [Berowyn al’Vere](#Berowyn-al-Vere), Oldest of the five daughters of Bran and [Marin al’Vere](#Marin-al-Vere) ; Egwene's oldest sister. She has been allowed to wear her hair in a braid, the Two Rivers symbol of adulthood for women, since she was sixteen years old. Berowyn was married, but her husband and her newborn child died in the epidemic of breakbone fever that struck the village; the same epidemic threatened Egwene’s life as well. She has since treated Egwene as though she were Berowyn’s own child, mooning over her as if she were the last thing left in her life."
+  },
+  {
+    "id": "Widow-Aynal",
+    "name": "Widow Aynal",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [2]",
+    "info": "Woman for which Widow Aynal’s Meadow is named. No one remembers which Aynal widow it was actually named for; the meadow has been called that as long as anyone can remember. [Berowyn al’Vere](#Berowyn-al-Vere), Oldest of the five daughters of Bran and [Marin al’Vere](#Marin-al-Vere) ; Egwene's oldest sister. She has been allowed to wear her hair in a braid, the Two Rivers symbol of adulthood for women, since she was sixteen years old. Berowyn was married, but her husband and her newborn child died in the epidemic of breakbone fever that struck the village; the same epidemic threatened Egwene’s life as well. She has since treated Egwene as though she were Berowyn’s own child, mooning over her as if she were the last thing left in her life."
+  },
+  {
+    "id": "Berowyn-al-Vere",
+    "name": "Berowyn al’Vere",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [3]",
+    "info": "Oldest of the five daughters of Bran and [Marin al’Vere](#Marin-al-Vere) ; Egwene's oldest sister. She has been allowed to wear her hair in a braid, the Two Rivers symbol of adulthood for women, since she was sixteen years old. Berowyn was married, but her husband and her newborn child died in the epidemic of breakbone fever that struck the village; the same epidemic threatened Egwene’s life as well. She has since treated Egwene as though she were Berowyn’s own child, mooning over her as if she were the last thing left in her life."
+  },
+  {
+    "id": "Ewin-Finngar",
+    "name": "Ewin Finngar",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 18 [4] (19)",
+    "info": "Boy from Emond’s Field. He is very young—seven or eight years old—but he already has a reputation for filching sweets when no one is looking. He is about six years younger than Mat . [Corin Ayellin](#Corin-Ayellin), Slim woman from Emond’s Field. She has a thick gray braid that hangs down as far as her hips. She bakes the best sweets in Emond’s Field, possibly in the Two Rivers— Egwene asserts that her own mother’s are better, but even her mother admits that Mistress Ayellin’s are the best."
+  },
+  {
+    "id": "Corin-Ayellin",
+    "name": "Corin Ayellin",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 36 [4] (38)",
+    "info": "Slim woman from Emond’s Field. She has a thick gray braid that hangs down as far as her hips. She bakes the best sweets in Emond’s Field, possibly in the Two Rivers— Egwene asserts that her own mother’s are better, but even her mother admits that Mistress Ayellin’s are the best."
+  },
+  {
+    "id": "Perrin-Aybara",
+    "name": "Perrin Aybara",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 4 [4] (5)",
+    "info": "A boy of about thirteen years of age from Emond’s field. He is one of the tallest boys in Emond’s Field, even taller than Rand , one of his two best friends (though since Rand is not yet finished growing, it is possible he will catch Perrin eventually). He is also good friends with Mat Cauthon , who often gets Perrin and Rand into trouble. He has curly hair, and is very stocky and generally big. He is very shy and laughs seldomly; Egwene perceives him to be dense, though she is starting to realize he may simply be overly contemplative and careful. His parents recently arranged to have him apprenticed to [Haral Luhhan](#Haral-Luhhan), the blacksmith of Emond’s Field. Perrin has two younger sisters, Adora and Deselle (eight and three, respectively) and one younger brother, Paetram , who is an infant. As an adult, Perrin ended up about half a head shorter than Rand, and also a fair bit shorter than Mat as well. He is still larger of build than both of them, however, which works well for a blacksmith."
+  },
+  {
+    "id": "Rand-al-Thor",
+    "name": "Rand al’Thor",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 1 [4]",
+    "info": "Shepherd from the Two Rivers. He is the second tallest boy in Emond’s Field, and may soon be taller than his friend Perrin as well. He has grey eyes and reddish hair, both of which are unheard of in the Two Rivers. His mother died when Rand was five; Egwene thinks he envies boys that have mothers. Rand is good friends with Mat Cauthon and [Perrin Aybara](#Perrin-Aybara). As a twenty year-old, Rand is about a head taller than Perrin, and taller than Mat as well. Rand and the Mayor’s daughter, Egwene, have been all but Promised to each other since they were both young; this is often the subject of ridicule by Mat and Perrin."
+  },
+  {
+    "id": "Paetram-(Paet)--Aybara",
+    "name": "Paetram (Paet)  Aybara",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [4]",
+    "info": "Paetram (Paet) Aybara ,  Perrin's baby brother."
+  },
+  {
+    "id": "Deselle-Aybara",
+    "name": "Deselle Aybara",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [4]",
+    "info": "Perrin's three-year-old sister. She enjoys “flying” (Perrin holding her arms and spinning her until her feet leave the ground)."
+  },
+  {
+    "id": "Adora-Aybara",
+    "name": "Adora Aybara",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [4]",
+    "info": "Perrin's eight-year-old sister. She seemed upset that her mother and father were detaining her at the forge when she could have been playing with her friends—she will not be asked to carry water for another year. She tells Egwene , “everybody says she’ll marry [Rand al’Thor](#Rand-al-Thor) ”; Egwene was aware that her parents and perhaps Rand’s father thought this, but not that everyone thought so…."
+  },
+  {
+    "id": "Haral-Luhhan",
+    "name": "Haral Luhhan",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 17 [4] (18)",
+    "info": "Blacksmith of Emond’s Field. His arms are as big as most men’s legs, and his chest strains his shirt. He is the tallest man in the Two Rivers. Master Luhhan has recently aquired a new apprentice in [Perrin Aybara](#Perrin-Aybara). His wife, [Alsbet](#Alsbet), is almost as large as he is. He sits on the Village Council."
+  },
+  {
+    "id": "Con-Aybara",
+    "name": "Con Aybara",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [5]",
+    "info": "Father of Perrin , Adora , Deselle , and Paetram and husband of Joslyn ."
+  },
+  {
+    "id": "Joslyn-Aybara",
+    "name": "Joslyn Aybara",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [5]",
+    "info": "Mother of Perrin , Adora , Deselle , and Paetram and wife of Con . She is very pretty, in Egwene's view, who thinks her smile could make the Sun bide its head in defeat."
+  },
+  {
+    "id": "Cilia-Cole",
+    "name": "Cilia Cole",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [5]",
+    "info": "Pink-cheeked girl of eleven from Emond’s Field. Egwene considers her a “ninny.” She likes to stare and make calf-eyes at Perrin ; Egwene thinks Perrin at least ought to notice her attentions. We find out later, of course, that Cilia eventually gave Perrin his first kiss. Matrim (Mat) Cauthon , Boy of about 13 years of age from Emond’s Field. He has brown eyes. Mat is known for his practical jokes and other mischief, often getting his best friends in trouble with him. He is good friends with [Rand al’Thor](#Rand-al-Thor) and [Perrin Aybara](#Perrin-Aybara), though he seems to have a contest going with [Dav Ayellin](#Dav-Ayellin) as to who can get the other into the most trouble. He has two younger sisters, Bodewhin and Eldrin . As a twenty year-old, Mat has grown to be one of the tallest men in the Two Rivers. He is still known for his practical jokes and other mischief; whenever something goes wrong in Emond’s Field, Mat is the one everyone looks to first."
+  },
+  {
+    "id": "Matrim-(Mat)--Cauthon",
+    "name": "Matrim (Mat)  Cauthon",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 4 [6] (5)",
+    "info": "Matrim (Mat) Cauthon , Boy of about 13 years of age from Emond’s Field. He has brown eyes. Mat is known for his practical jokes and other mischief, often getting his best friends in trouble with him. He is good friends with [Rand al’Thor](#Rand-al-Thor) and [Perrin Aybara](#Perrin-Aybara), though he seems to have a contest going with [Dav Ayellin](#Dav-Ayellin) as to who can get the other into the most trouble. He has two younger sisters, Bodewhin and Eldrin . As a twenty year-old, Mat has grown to be one of the tallest men in the Two Rivers. He is still known for his practical jokes and other mischief; whenever something goes wrong in Emond’s Field, Mat is the one everyone looks to first."
+  },
+  {
+    "id": "Loise-al-Vere",
+    "name": "Loise al’Vere",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [6]",
+    "info": "One of five daughters of Marin and Bran al’Vere , the innkeepers of Emond’s Field. She is fifteen years old, six years older than their youngest daughter Egwene . She likes climbing trees and swimming in the Winespring Water, even though most girls her age have outgrown those pastimes."
+  },
+  {
+    "id": "Dag-Coplin",
+    "name": "Dag Coplin",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [6]",
+    "info": "Old man from Emond’s Field. His hair is gray, and is not washed all that often, if at all. His skin is very wrinkled with age. Egwene only calls him “Master Coplin” in public, to be polite—in her own head, he is simply  with no further respect involved. Not to be confused with his grandson, who has the same name."
+  },
+  {
+    "id": "Alene-al-Vere",
+    "name": "Alene al’Vere",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [7]",
+    "info": "Second oldest of five daughters of Marin and Bran al’Vere of Emond’s Field. She loves to read, and ignores Egwene unless Egwene is presently reading a book that she herself wants to read—in this case, she usually takes it and proclaims it to be much too “complex” for Egwene to understand."
+  },
+  {
+    "id": "Jain-Farstrider",
+    "name": "Jain Farstrider",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 43 [7] (46)",
+    "info": "Main character in Egwene's favorite book, The Travels of Jain Farstrider . He has traveled all over the world, including the lands beyond the Aiel Waste and the Great Blight. He disappeared years ago and has not been heard from since. [Doral Barran](#Doral-Barran), Wisdom of Emond’s Field. She is the oldest woman in Emond’ Field, possibly in the entire Two Rivers. She is white-haired and frail, though still clear-eyed and not stooped at all. Her last apprentice died of a mysterious illness that she could not cure. She currently has another apprentice, [Nynaeve al’Meara](#Nynaeve-al-Meara), who has been studying under her for three years."
+  },
+  {
+    "id": "Doral-Barran",
+    "name": "Doral Barran",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 268 [7] (285)",
+    "info": "Wisdom of Emond’s Field. She is the oldest woman in Emond’ Field, possibly in the entire Two Rivers. She is white-haired and frail, though still clear-eyed and not stooped at all. Her last apprentice died of a mysterious illness that she could not cure. She currently has another apprentice, [Nynaeve al’Meara](#Nynaeve-al-Meara), who has been studying under her for three years."
+  },
+  {
+    "id": "Nynaeve-al-Meara",
+    "name": "Nynaeve al’Meara",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 7 [7]",
+    "info": "Young woman from Emond’s Field. She has brown hair and eyes, and is quite slender. She has been studying under [Doral Barran](#Doral-Barran), the Wisdom of Emond’s Field, for about three years. Many people in the village think she is too young to be apprenticed to a Wisdom, and that Mistress Barran should have chosen someone years older when Nynaeve’s predecessor died mysteriously. Nynaeve is a very quick learner, and has been allowed to braid her hair for a year now. She has developed the ability to sense Egwene's presence without seeing her since the end of the breakbone fever epidemic. Mistress Barran seems to have caught on to some of Nynaeve’s abilities—she seemed disappointed that the wound Nynaeve was bandaging did not seem more healed than it was when she started. After Mistress Barran’s death, Nynaeve herself became the Wisdom. Her adult height is about as tall as Mat's shoulder. Many people still think Nynaeve is too young to be the Wisdom; however, mentioning this to her is a good way to get whacked by the stick she carries. [Bili Congar](#Bili-Congar), A man from Emond’s Field. According to Egwene , he is always doing stupid things and always getting hurt. She has very little, if any, respect for him. He is of an age with [Haral Luhhan](#Haral-Luhhan), but he looks as though he is about ten years older due to his hollow cheeks and sunken eyes. Egwene encountered him with the Wisdom after he sliced open his leg due to being drunk while trying to shear sheeThird oldest of five daughters of Marin and Bran al’Vere of Emond’s Field. She is eighteen. She wears her hair to her waist, tied with a blue kerchief—the Women’s Circle has not yet granted her the privilege of wearing it braided. She is one year older than Nynaeve . She is very fond of quotations; Egwene finds in annoying when they get stuck in her head."
+  },
+  {
+    "id": "Bili-Congar",
+    "name": "Bili Congar",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 34 [7] (36)",
+    "info": "A man from Emond’s Field. According to Egwene , he is always doing stupid things and always getting hurt. She has very little, if any, respect for him. He is of an age with [Haral Luhhan](#Haral-Luhhan), but he looks as though he is about ten years older due to his hollow cheeks and sunken eyes. Egwene encountered him with the Wisdom after he sliced open his leg due to being drunk while trying to shear sheeThird oldest of five daughters of Marin and Bran al’Vere of Emond’s Field. She is eighteen. She wears her hair to her waist, tied with a blue kerchief—the Women’s Circle has not yet granted her the privilege of wearing it braided. She is one year older than Nynaeve . She is very fond of quotations; Egwene finds in annoying when they get stuck in her head."
+  },
+  {
+    "id": "Elisa-al-Vere",
+    "name": "Elisa al’Vere",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [8]",
+    "info": "Third oldest of five daughters of Marin and Bran al’Vere of Emond’s Field. She is eighteen. She wears her hair to her waist, tied with a blue kerchief—the Women’s Circle has not yet granted her the privilege of wearing it braided. She is one year older than Nynaeve . She is very fond of quotations; Egwene finds in annoying when they get stuck in her head."
+  },
+  {
+    "id": "Calle-Coplin",
+    "name": "Calle Coplin",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [8]",
+    "info": "Young woman from Emond’s Field. She is twenty years old, almost twenty-one, though she still has not been granted the privilege of wearing her hair in a braid, the symbol of womanhood in Emond’s Field. She enjoys flirting, and does not seem to be bothered by the fact that many girls as many as four years her junior are considered grown women while she is not. [Jillie Lewin](#Jillie-Lewin), Young woman from Emond’s Field. She is 19, a year younger than [Elisa al’Vere](#Elisa-al-Vere), and wears her hair in a black braid that extends below her waist. [Wil al’Seen](#Wil-al-Seen), Young man from Deven Ride—he actually lives on a farm between Deven Ride and Emond’s Field. Egwene thinks his ears look funny, but many of the other girls in the village think Wil is quite pretty. As a teen, he always had girls staring at him and whispering behind his back. He courted every girl, and managed to convince all of them that he was just being polite to the others. [Paet al’Caar](#Paet-al-Caar), Shepherd from near Emond’s Field. He is in town to help with shearing. Years later, he was among those that supported [Hari Coplin](#Hari-Coplin) in his accusations that Moiraine brought the Trollocs to Emond’s Field on Winternight. His son, Wil , had his leg broken in that attack and was Healed by Moiraine , so Paet was less fervent in his accusations."
+  },
+  {
+    "id": "Jillie-Lewin",
+    "name": "Jillie Lewin",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [9]",
+    "info": "Young woman from Emond’s Field. She is 19, a year younger than [Elisa al’Vere](#Elisa-al-Vere), and wears her hair in a black braid that extends below her waist. [Wil al’Seen](#Wil-al-Seen), Young man from Deven Ride—he actually lives on a farm between Deven Ride and Emond’s Field. Egwene thinks his ears look funny, but many of the other girls in the village think Wil is quite pretty. As a teen, he always had girls staring at him and whispering behind his back. He courted every girl, and managed to convince all of them that he was just being polite to the others. [Paet al’Caar](#Paet-al-Caar), Shepherd from near Emond’s Field. He is in town to help with shearing. Years later, he was among those that supported [Hari Coplin](#Hari-Coplin) in his accusations that Moiraine brought the Trollocs to Emond’s Field on Winternight. His son, Wil , had his leg broken in that attack and was Healed by Moiraine , so Paet was less fervent in his accusations."
+  },
+  {
+    "id": "Wil-al-Seen",
+    "name": "Wil al’Seen",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 311 [9] (331)",
+    "info": "Young man from Deven Ride—he actually lives on a farm between Deven Ride and Emond’s Field. Egwene thinks his ears look funny, but many of the other girls in the village think Wil is quite pretty. As a teen, he always had girls staring at him and whispering behind his back. He courted every girl, and managed to convince all of them that he was just being polite to the others. [Paet al’Caar](#Paet-al-Caar), Shepherd from near Emond’s Field. He is in town to help with shearing. Years later, he was among those that supported [Hari Coplin](#Hari-Coplin) in his accusations that Moiraine brought the Trollocs to Emond’s Field on Winternight. His son, Wil , had his leg broken in that attack and was Healed by Moiraine , so Paet was less fervent in his accusations."
+  },
+  {
+    "id": "Paet-al-Caar",
+    "name": "Paet al’Caar",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 109 [9] (117)",
+    "info": "Shepherd from near Emond’s Field. He is in town to help with shearing. Years later, he was among those that supported [Hari Coplin](#Hari-Coplin) in his accusations that Moiraine brought the Trollocs to Emond’s Field on Winternight. His son, Wil , had his leg broken in that attack and was Healed by Moiraine , so Paet was less fervent in his accusations."
+  },
+  {
+    "id": "Jac-al-Caar",
+    "name": "Jac al’Caar",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [9]",
+    "info": "Shepherd from near Emond’s Field. He is in town to help with shearing. [Dav Ayellin](#Dav-Ayellin), Boy from Emond’s Field, of an age with Mat . He and Mat are friends, and like to get into mischief together. In fact, he and Mat seem to have a competition over who can get into the most trouble."
+  },
+  {
+    "id": "Dav-Ayellin",
+    "name": "Dav Ayellin",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 11 [10] (13)",
+    "info": "Boy from Emond’s Field, of an age with Mat . He and Mat are friends, and like to get into mischief together. In fact, he and Mat seem to have a competition over who can get into the most trouble."
+  },
+  {
+    "id": "Lem-Thane",
+    "name": "Lem Thane",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 51 [10] (55)",
+    "info": "Son of [Jon Thane](#Jon-Thane), miller of Emond’s Field. He is about eight months younger than Rand . Like the three boys that left Emond’s Field on Winternight, he saw the Black Rider. Bandry (Ban) Crawe , A young man from Emond’s Field, son of Samel . He is about ten months older than Rand . Like the three boys who left Emond’s Field on Winternight, he saw the Black Rider. [Elam Dowtry](#Elam-Dowtry), One of Mat's friends in Emond’s Field. He has a long nose, short hair, and, at least when he was young, a cowlick that stood up in the back. A nine-year-old Egwene assessed that he looked a little like a sheeBoy from Emond’s Field. He is thirteen years old, even skinnier than Rand , and has a thrusting nose. Brandelwyn (Bran) al’Vere , Mayor of Emond’s Field and innkeeper of the Winespring Inn. He is the father of five girls, including Egwene . He has a large girth, about double of anyone else, and a fringe of thinning gray hair. He is known around town as being very stubborn, and not someone to be trifled with."
+  },
+  {
+    "id": "Bandry-(Ban)--Crawe",
+    "name": "Bandry (Ban)  Crawe",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 51 [10] (55)",
+    "info": "Bandry (Ban) Crawe , A young man from Emond’s Field, son of Samel . He is about ten months older than Rand . Like the three boys who left Emond’s Field on Winternight, he saw the Black Rider. [Elam Dowtry](#Elam-Dowtry), One of Mat's friends in Emond’s Field. He has a long nose, short hair, and, at least when he was young, a cowlick that stood up in the back. A nine-year-old Egwene assessed that he looked a little like a sheeBoy from Emond’s Field. He is thirteen years old, even skinnier than Rand , and has a thrusting nose. Brandelwyn (Bran) al’Vere , Mayor of Emond’s Field and innkeeper of the Winespring Inn. He is the father of five girls, including Egwene . He has a large girth, about double of anyone else, and a fringe of thinning gray hair. He is known around town as being very stubborn, and not someone to be trifled with."
+  },
+  {
+    "id": "Elam-Dowtry",
+    "name": "Elam Dowtry",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 12 [10]",
+    "info": "One of Mat's friends in Emond’s Field. He has a long nose, short hair, and, at least when he was young, a cowlick that stood up in the back. A nine-year-old Egwene assessed that he looked a little like a sheeBoy from Emond’s Field. He is thirteen years old, even skinnier than Rand , and has a thrusting nose. Brandelwyn (Bran) al’Vere , Mayor of Emond’s Field and innkeeper of the Winespring Inn. He is the father of five girls, including Egwene . He has a large girth, about double of anyone else, and a fringe of thinning gray hair. He is known around town as being very stubborn, and not someone to be trifled with."
+  },
+  {
+    "id": "Dannil-Lewin",
+    "name": "Dannil Lewin",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [12]",
+    "info": "Boy from Emond’s Field. He is thirteen years old, even skinnier than Rand , and has a thrusting nose. Brandelwyn (Bran) al’Vere , Mayor of Emond’s Field and innkeeper of the Winespring Inn. He is the father of five girls, including Egwene . He has a large girth, about double of anyone else, and a fringe of thinning gray hair. He is known around town as being very stubborn, and not someone to be trifled with."
+  },
+  {
+    "id": "Brandelwyn-(Bran)--al-Vere",
+    "name": "Brandelwyn (Bran)  al’Vere",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 7 [12]",
+    "info": "Brandelwyn (Bran) al’Vere , Mayor of Emond’s Field and innkeeper of the Winespring Inn. He is the father of five girls, including Egwene . He has a large girth, about double of anyone else, and a fringe of thinning gray hair. He is known around town as being very stubborn, and not someone to be trifled with."
+  },
+  {
+    "id": "Natti-Cauthon",
+    "name": "Natti Cauthon",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [12]",
+    "info": "Woman from Emond’s Field, mother of Mat . She is always calm and collected, which Egwene figures is necessary for someone with a son like Mat. She always seems to know about Mat’s escapades; Mat is not sure how she always knows, but it is obvious to Egwene that his two younger sisters enjoy the role of tattletale."
+  },
+  {
+    "id": "Bodewhin-(Bode)--Cauthon",
+    "name": "Bodewhin (Bode)  Cauthon",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [12]",
+    "info": "Bodewhin (Bode) Cauthon , Girl from Emond’s Field. She is eight years old, one year younger than Egwene . She seems to enjoy telling on her brother, Mat , after he has gotten himself into mischief (which is quite often)."
+  },
+  {
+    "id": "Eldrin-Cauthon",
+    "name": "Eldrin Cauthon",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [12]",
+    "info": "Girl from Emond’s Field. She is about two years younger than Egwene . She seems to enjoy telling on her brother, Mat , after he has gotten himself into mischief (which is quite often)."
+  },
+  {
+    "id": "Master-Cole",
+    "name": "Master Cole",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [12]",
+    "info": "Old man from Emond’s Field. He is as old as the Wisdom , perhaps even older. Despite this, he still has a full head of hair, though it is white now. [Cenn Buie](#Cenn-Buie), Thatcher in Emond’s Field. He is gnarled but spry, and speaks with a raspy voice. He sits on the Village Council, but is probably the most disagreeable member on it. Tamlin (Tam) al’Thor ,  Rand's father, a shepherd in the Two Rivers. He has a thick, broad chest and a broad face, gray hair with black streaks in it. His cheeks have been roughened by the sun. He is a solid man. Keeping his word is important to him. When Tam was young, he left the Two Rivers to see the outside world, something which is extremely rare in the Two Rivers. While there he acquired a sword, and married Kari , a woman from Caemlyn. Since Kari’s death fifteen years ago, Tam has raised Rand himself. Since Tam has been alone and without a wife for so long, many women in Emond’ Field have been trying to find a match for him recently. They’ve also started to think about who would be good for his son as well. Tam is very quiet, and keeps largely to himself, but almost everyone in the Two Rivers likes him."
+  },
+  {
+    "id": "Cenn-Buie",
+    "name": "Cenn Buie",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 6 [13]",
+    "info": "Thatcher in Emond’s Field. He is gnarled but spry, and speaks with a raspy voice. He sits on the Village Council, but is probably the most disagreeable member on it. Tamlin (Tam) al’Thor ,  Rand's father, a shepherd in the Two Rivers. He has a thick, broad chest and a broad face, gray hair with black streaks in it. His cheeks have been roughened by the sun. He is a solid man. Keeping his word is important to him. When Tam was young, he left the Two Rivers to see the outside world, something which is extremely rare in the Two Rivers. While there he acquired a sword, and married Kari , a woman from Caemlyn. Since Kari’s death fifteen years ago, Tam has raised Rand himself. Since Tam has been alone and without a wife for so long, many women in Emond’ Field have been trying to find a match for him recently. They’ve also started to think about who would be good for his son as well. Tam is very quiet, and keeps largely to himself, but almost everyone in the Two Rivers likes him."
+  },
+  {
+    "id": "Tamlin-(Tam)--al-Thor",
+    "name": "Tamlin (Tam)  al’Thor",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 2 [13]",
+    "info": "Tamlin (Tam) al’Thor ,  Rand's father, a shepherd in the Two Rivers. He has a thick, broad chest and a broad face, gray hair with black streaks in it. His cheeks have been roughened by the sun. He is a solid man. Keeping his word is important to him. When Tam was young, he left the Two Rivers to see the outside world, something which is extremely rare in the Two Rivers. While there he acquired a sword, and married Kari , a woman from Caemlyn. Since Kari’s death fifteen years ago, Tam has raised Rand himself. Since Tam has been alone and without a wife for so long, many women in Emond’ Field have been trying to find a match for him recently. They’ve also started to think about who would be good for his son as well. Tam is very quiet, and keeps largely to himself, but almost everyone in the Two Rivers likes him."
+  },
+  {
+    "id": "Master-al-Dai",
+    "name": "Master al’Dai",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [14]",
+    "info": "Lean old man from Emond’s Field with wispy white hair. As old or older than [Master Cole](#Master-Cole), he is unable to walk without the assistance of a cane. He is [Bili al’Dai](#Bili-al-Dai)'s grandfather. Despite his advanced years, his eyes remain clear and sharp, as does his mind. He is also quite quick with the shears, almost as fast as Tam al’Thor and faster than everyone else."
+  },
+  {
+    "id": "Bili-al-Dai",
+    "name": "Bili al’Dai",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [14]",
+    "info": "Young man from Emond’s Field. He is [Master al’Dai](#Master-al-Dai)'s grandson. Dark One , Name, used in every land, for [Shai’tan](#Shai-tan). See [Shai’tan](#Shai-tan). [Semirhage](#Semirhage), One of the Forsaken, the thirteen powerful Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should. In her case, the threat is that she will come and get the child if he or she keeps lying. [Lanfear](#Lanfear), One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should—it is said that she waits for children who steal. [Artur Hawkwing](#Artur-Hawkwing), Name by which [Artur Paendrag Tanreall](#Artur-Paendrag-Tanreall) was known during his conquest of the world. See Paendrag Tanreall, Artur ."
+  },
+  {
+    "id": "Dark-One",
+    "name": "Dark One",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 12 [14]",
+    "info": "Name, used in every land, for [Shai’tan](#Shai-tan). See [Shai’tan](#Shai-tan). [Semirhage](#Semirhage), One of the Forsaken, the thirteen powerful Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should. In her case, the threat is that she will come and get the child if he or she keeps lying. [Lanfear](#Lanfear), One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should—it is said that she waits for children who steal. [Artur Hawkwing](#Artur-Hawkwing), Name by which [Artur Paendrag Tanreall](#Artur-Paendrag-Tanreall) was known during his conquest of the world. See Paendrag Tanreall, Artur ."
+  },
+  {
+    "id": "Semirhage",
+    "name": "Semirhage",
+    "chapter": "Earlier: Ravens",
+    "page": "p. [15]",
+    "info": "One of the Forsaken, the thirteen powerful Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should. In her case, the threat is that she will come and get the child if he or she keeps lying. [Lanfear](#Lanfear), One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should—it is said that she waits for children who steal. [Artur Hawkwing](#Artur-Hawkwing), Name by which [Artur Paendrag Tanreall](#Artur-Paendrag-Tanreall) was known during his conquest of the world. See Paendrag Tanreall, Artur ."
+  },
+  {
+    "id": "Lanfear",
+    "name": "Lanfear",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 539 [15] (575)",
+    "info": "One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. Her name is still used to frighten children into behaving as they should—it is said that she waits for children who steal. [Artur Hawkwing](#Artur-Hawkwing), Name by which [Artur Paendrag Tanreall](#Artur-Paendrag-Tanreall) was known during his conquest of the world. See Paendrag Tanreall, Artur ."
+  },
+  {
+    "id": "Artur-Hawkwing",
+    "name": "Artur Hawkwing",
+    "chapter": "Earlier: Ravens",
+    "page": "p. 43 [15] (46)",
+    "info": "Name by which [Artur Paendrag Tanreall](#Artur-Paendrag-Tanreall) was known during his conquest of the world. See Paendrag Tanreall, Artur ."
+  },
+  {
+    "id": "Bela",
+    "name": "Bela",
+    "chapter": "Chapter 1: An Empty Road",
+    "page": "p. 2",
+    "info": "Tam's work horse, a white shaggy mare. [Wit Congar](#Wit-Congar), Man from Emond’s Field. He and his family are reknowned troublemakers and complainers. He is scrawny, unlike his quite solid wife, Daise ."
+  },
+  {
+    "id": "Wit-Congar",
+    "name": "Wit Congar",
+    "chapter": "Chapter 1: An Empty Road",
+    "page": "p. 6 (7)",
+    "info": "Man from Emond’s Field. He and his family are reknowned troublemakers and complainers. He is scrawny, unlike his quite solid wife, Daise ."
+  },
+  {
+    "id": "Daise-Congar",
+    "name": "Daise Congar",
+    "chapter": "Chapter 1: An Empty Road",
+    "page": "p. 7",
+    "info": "Wit's wife. She is twice as wide as he is. She has a hard face, and not an ounce of fat on her. She controlls her husband much more than he controls her."
+  },
+  {
+    "id": "Jon-Thane",
+    "name": "Jon Thane",
+    "chapter": "Chapter 1: An Empty Road",
+    "page": "p. 8 (9)",
+    "info": "Miller of Emond’s Field. His mill is actually out of town. He sits on the Village Council."
+  },
+  {
+    "id": "Mistress-al-Donel",
+    "name": "Mistress al’Donel",
+    "chapter": "Chapter 1: An Empty Road",
+    "page": "p. 10 (11)",
+    "info": "Woman from Emond’s Field. She demanded that Bran al’Vere fix the problem that no storks were nesting on the rooftops this spring. He honestly does not know what she would have him do. Shepherd of the Night , Alternative name for the Dark One . See [Shai’tan](#Shai-tan). [Ishamael](#Ishamael), One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. His name means “ [Betrayer of Hope](#Betrayer-of-Hope) ” in the Old Tongue. He was called [Elan Morin Tedronai](#Elan-Morin-Tedronai) in the Age of Legends, before he turned to the Shadow. His name is still used to frighten children."
+  },
+  {
+    "id": "Shepherd-of-the-Night",
+    "name": "Shepherd of the Night",
+    "chapter": "Chapter 1: An Empty Road",
+    "page": "p. 12 (13)",
+    "info": "Alternative name for the Dark One . See [Shai’tan](#Shai-tan). [Ishamael](#Ishamael), One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. His name means “ [Betrayer of Hope](#Betrayer-of-Hope) ” in the Old Tongue. He was called [Elan Morin Tedronai](#Elan-Morin-Tedronai) in the Age of Legends, before he turned to the Shadow. His name is still used to frighten children."
+  },
+  {
+    "id": "Ishamael",
+    "name": "Ishamael",
+    "chapter": "Chapter 1: An Empty Road",
+    "page": "p. 12 (13)",
+    "info": "One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. His name means “ [Betrayer of Hope](#Betrayer-of-Hope) ” in the Old Tongue. He was called [Elan Morin Tedronai](#Elan-Morin-Tedronai) in the Age of Legends, before he turned to the Shadow. His name is still used to frighten children."
+  },
+  {
+    "id": "Aginor",
+    "name": "Aginor",
+    "chapter": "Chapter 1: An Empty Road",
+    "page": "p. 12 (13)",
+    "info": "One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to serving the Shadow during the War of the Shadow. His name is still used to frighten children. [Shadowman](#Shadowman), Bogeyman of the Wheel of Time . [Marin al’Vere](#Marin-al-Vere),  Bran's wife, Egwene's mother. She is slender, and keeps her hair in a thick, gray braid."
+  },
+  {
+    "id": "Shadowman",
+    "name": "Shadowman",
+    "chapter": "Chapter 1: An Empty Road",
+    "page": "p. 12 (13)",
+    "info": "Bogeyman of the Wheel of Time . [Marin al’Vere](#Marin-al-Vere),  Bran's wife, Egwene's mother. She is slender, and keeps her hair in a thick, gray braid."
+  },
+  {
+    "id": "Marin-al-Vere",
+    "name": "Marin al’Vere",
+    "chapter": "Chapter 1: An Empty Road",
+    "page": "p. 14 (15)",
+    "info": "Bran's wife, Egwene's mother. She is slender, and keeps her hair in a thick, gray braid."
+  },
+  {
+    "id": "Scratch",
+    "name": "Scratch",
+    "chapter": "Chapter 2: Strangers",
+    "page": "p. 16 (17)",
+    "info": "Yellow cat native to the Winespring Inn in Emond’s Field. Her usual perch is next to the fire or on top of the bookcase. [Adan al’Caar](#Adan-al-Caar), Boy from Emond’s Field that Mat fooled with a story about ghost dogs, shortly before releasing Master Luhhan's dogs covered with flour. [Dag Coplin](#Dag-Coplin), Boy from Emond’s Field that Mat fooled with a story about ghost dogs, shortly before releasing Master Luhhan's dogs covered with flour."
+  },
+  {
+    "id": "Adan-al-Caar",
+    "name": "Adan al’Caar",
+    "chapter": "Chapter 2: Strangers",
+    "page": "p. 18 (19)",
+    "info": "Boy from Emond’s Field that Mat fooled with a story about ghost dogs, shortly before releasing Master Luhhan's dogs covered with flour. [Dag Coplin](#Dag-Coplin), Boy from Emond’s Field that Mat fooled with a story about ghost dogs, shortly before releasing Master Luhhan's dogs covered with flour."
+  },
+  {
+    "id": "Dag-Coplin",
+    "name": "Dag Coplin",
+    "chapter": "Chapter 2: Strangers",
+    "page": "p. 18 (19)",
+    "info": "Boy from Emond’s Field that Mat fooled with a story about ghost dogs, shortly before releasing Master Luhhan's dogs covered with flour."
+  },
+  {
+    "id": "Alsbet-Luhhan",
+    "name": "Alsbet Luhhan",
+    "chapter": "Chapter 2: Strangers",
+    "page": "p. 18 (19)",
+    "info": "Wife of Haral , the blacksmith of Emond’s Field. She is almost as strong as he is, and more ill-tempered."
+  },
+  {
+    "id": "Moiraine-Damodred",
+    "name": "Moiraine Damodred",
+    "chapter": "Chapter 2: Strangers",
+    "page": "p. 20 (21)",
+    "info": "Guest in Emond’s Field the day before Bel Tine. She has large dark eyes and keeps her dark hair in ringlets. She barely comes to Rand's chest. She is an Aes Sedai of the Blue Ajah, and came to Emond’s Field to find Rand , Mat , and Perrin ."
+  },
+  {
+    "id": "al-Lan-Mandragoran",
+    "name": "al’Lan Mandragoran",
+    "chapter": "Chapter 2: Strangers",
+    "page": "p. 20 (21)",
+    "info": "Guest in Emond’s Field the day before Bel Tine. He is quite tall, has long hair that is graying at the temples and is held from his face by a narrow leather headband. His face is all stony planes and angles, weathered but unlined. He is Moiraine's Warder."
+  },
+  {
+    "id": "Rowan-Hurn",
+    "name": "Rowan Hurn",
+    "chapter": "Chapter 2: Strangers",
+    "page": "p. 21 (22)",
+    "info": "Member of the Village Council of Emond’s Field. [Samel Crawe](#Samel-Crawe), Member of the Village Council of Emond’s Field."
+  },
+  {
+    "id": "Samel-Crawe",
+    "name": "Samel Crawe",
+    "chapter": "Chapter 2: Strangers",
+    "page": "p. 21 (22)",
+    "info": "Member of the Village Council of Emond’s Field."
+  },
+  {
+    "id": "Hu-Barran",
+    "name": "Hu Barran",
+    "chapter": "Chapter 2: Strangers",
+    "page": "p. 21 (22)",
+    "info": "Stablehand at the Winespring Inn in Emond’s Field. [Tad Barran](#Tad-Barran), Stablehand at the Winespring Inn in Emond’s Field."
+  },
+  {
+    "id": "Tad-Barran",
+    "name": "Tad Barran",
+    "chapter": "Chapter 2: Strangers",
+    "page": "p. 21 (22)",
+    "info": "Stablehand at the Winespring Inn in Emond’s Field."
+  },
+  {
+    "id": "Padan-Fain",
+    "name": "Padan Fain",
+    "chapter": "Chapter 3: The Peddler",
+    "page": "p. 27 (29)",
+    "info": "Pale skinny peddler with gangly arms and a huge beak of a nose that comes to Emond’s Field about once a year. He always smiles and laughs as if he knows some joke no one else knows. He came just before Bel Tine to trade, and brought news of the war in Ghealdan against the false [Dragon](#Dragon). [Dragon](#Dragon) Reborn , According to the Prophecies of the [Dragon](#Dragon), the man who will be Reborn at mankind’s greatest hour of need to save the world. He is the Rebirth of [Lews Therin Telamon](#Lews-Therin-Telamon), the [Dragon](#Dragon). It is said that he will save the world—and Break it again."
+  },
+  {
+    "id": "Dragon-Reborn",
+    "name": "Dragon Reborn",
+    "chapter": "Chapter 3: The Peddler",
+    "page": "p. 30 (32)",
+    "info": "According to the Prophecies of the [Dragon](#Dragon), the man who will be Reborn at mankind’s greatest hour of need to save the world. He is the Rebirth of [Lews Therin Telamon](#Lews-Therin-Telamon), the [Dragon](#Dragon). It is said that he will save the world—and Break it again."
+  },
+  {
+    "id": "Ewal-Coplin",
+    "name": "Ewal Coplin",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 39 (43)",
+    "info": "Young man from the Two Rivers. He and the rest of his family used to make fun of Rand for his gray eyes, until Rand punched him in the nose."
+  },
+  {
+    "id": "Thomdril-(Thom)--Merrilin",
+    "name": "Thomdril (Thom)  Merrilin",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 40 (44)",
+    "info": "Thomdril (Thom) Merrilin , Gleeman who comes to Emond’s Field on Winternight. He seems to have a distrust of Aes Sedai and their ways. He has white hair and mustaches, and wears a patched cloak. He was once a Court-bard. Fond of elaborate bows and flourishes."
+  },
+  {
+    "id": "Artur-Paendrag-Tanreall",
+    "name": "Artur Paendrag Tanreall",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 43 (46)",
+    "info": "Hero of Legend who ruled all the lands from the Aiel Waste to the Aryth Ocean and beyond. He even sent troops across the Aryth Ocean, as well as to the lands beyond the Aiel Waste. His death set off the War of the Hundred Years. His sign was a golden hawk in flight; he was also known as [Artur Hawkwing](#Artur-Hawkwing). [Green Man](#Green-Man), Character in one of Thom's stories. According to Legend, he guards [Avendesora](#Avendesora), the Tree of Life, as well as the Eye of the World. [Anla](#Anla), Character from The Thousand Tales of [Anla](#Anla), the Wise Counselor , one of Thom's stories. [Jaem](#Jaem), Giant-slayer from one of Thom's stories. He is also featured in a song, “[Jaem](#Jaem)’s Folly,” that is popular among Two Rivers folk. [Susa](#Susa), Character who tamed [Jain Farstrider](#Jain-Farstrider) in one of Thom's stories. [Mara](#Mara), Character from one of Thom Merrilin's stories, “[Mara](#Mara) and the Three Foolish Kings.” [Lenn](#Lenn), Man who flew to the moon in the belly of an eagle made of fire in one of Thom Merrilin's gleeman tales. The story precedes the Age of Legends."
+  },
+  {
+    "id": "Green-Man",
+    "name": "Green Man",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 43 (46)",
+    "info": "Character in one of Thom's stories. According to Legend, he guards [Avendesora](#Avendesora), the Tree of Life, as well as the Eye of the World. [Anla](#Anla), Character from The Thousand Tales of [Anla](#Anla), the Wise Counselor , one of Thom's stories. [Jaem](#Jaem), Giant-slayer from one of Thom's stories. He is also featured in a song, “[Jaem](#Jaem)’s Folly,” that is popular among Two Rivers folk. [Susa](#Susa), Character who tamed [Jain Farstrider](#Jain-Farstrider) in one of Thom's stories. [Mara](#Mara), Character from one of Thom Merrilin's stories, “[Mara](#Mara) and the Three Foolish Kings.” [Lenn](#Lenn), Man who flew to the moon in the belly of an eagle made of fire in one of Thom Merrilin's gleeman tales. The story precedes the Age of Legends."
+  },
+  {
+    "id": "Anla",
+    "name": "Anla",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 43 (46)",
+    "info": "Character from The Thousand Tales of  the Wise Counselor , one of Thom's stories. [Jaem](#Jaem), Giant-slayer from one of Thom's stories. He is also featured in a song, “[Jaem](#Jaem)’s Folly,” that is popular among Two Rivers folk. [Susa](#Susa), Character who tamed [Jain Farstrider](#Jain-Farstrider) in one of Thom's stories. [Mara](#Mara), Character from one of Thom Merrilin's stories, “[Mara](#Mara) and the Three Foolish Kings.” [Lenn](#Lenn), Man who flew to the moon in the belly of an eagle made of fire in one of Thom Merrilin's gleeman tales. The story precedes the Age of Legends."
+  },
+  {
+    "id": "Jaem",
+    "name": "Jaem",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 43 (46)",
+    "info": "Giant-slayer from one of Thom's stories. He is also featured in a song, “Jaem’s Folly,” that is popular among Two Rivers folk. [Susa](#Susa), Character who tamed [Jain Farstrider](#Jain-Farstrider) in one of Thom's stories. [Mara](#Mara), Character from one of Thom Merrilin's stories, “[Mara](#Mara) and the Three Foolish Kings.” [Lenn](#Lenn), Man who flew to the moon in the belly of an eagle made of fire in one of Thom Merrilin's gleeman tales. The story precedes the Age of Legends."
+  },
+  {
+    "id": "Susa",
+    "name": "Susa",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 43 (46)",
+    "info": "Character who tamed [Jain Farstrider](#Jain-Farstrider) in one of Thom's stories. [Mara](#Mara), Character from one of Thom Merrilin's stories, “[Mara](#Mara) and the Three Foolish Kings.” [Lenn](#Lenn), Man who flew to the moon in the belly of an eagle made of fire in one of Thom Merrilin's gleeman tales. The story precedes the Age of Legends."
+  },
+  {
+    "id": "Mara",
+    "name": "Mara",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 43 (46)",
+    "info": "Character from one of Thom Merrilin's stories, “Mara and the Three Foolish Kings.” [Lenn](#Lenn), Man who flew to the moon in the belly of an eagle made of fire in one of Thom Merrilin's gleeman tales. The story precedes the Age of Legends."
+  },
+  {
+    "id": "Lenn",
+    "name": "Lenn",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 43 (46)",
+    "info": "Man who flew to the moon in the belly of an eagle made of fire in one of Thom Merrilin's gleeman tales. The story precedes the Age of Legends."
+  },
+  {
+    "id": "Salya",
+    "name": "Salya",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 43 (46)",
+    "info": "Daughter of [Lenn](#Lenn) in another of Thom Merrilin's gleeman tales. She walked among the stars in the story, which precedes the Age of Legends."
+  },
+  {
+    "id": "Mosk",
+    "name": "Mosk",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 43 (47)",
+    "info": "Giant who fought with a Lance of Fire that could reach around the world in one of Thom's stories. He fought with several people, including [Alsbet](#Alsbet), ruler off the world. The story of Mosk predates the Age of Legends. [Alsbet](#Alsbet), Queen of All in several of Thom Merrilin's stories. Her story predates the Age of Legends. [Materese](#Materese), The Healer, Mother of the Wondrous Ind in one of Thom's stories. Her story predates the Age of Legends. [Karil](#Karil), Goodwife in one of Thom's stories. In this story, she cured her husband of snoring. [Darith](#Darith), King in one of Thom's stories."
+  },
+  {
+    "id": "Alsbet",
+    "name": "Alsbet",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 44 (47)",
+    "info": "Queen of All in several of Thom Merrilin's stories. Her story predates the Age of Legends. [Materese](#Materese), The Healer, Mother of the Wondrous Ind in one of Thom's stories. Her story predates the Age of Legends. [Karil](#Karil), Goodwife in one of Thom's stories. In this story, she cured her husband of snoring. [Darith](#Darith), King in one of Thom's stories."
+  },
+  {
+    "id": "Materese",
+    "name": "Materese",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 44 (47)",
+    "info": "The Healer, Mother of the Wondrous Ind in one of Thom's stories. Her story predates the Age of Legends. [Karil](#Karil), Goodwife in one of Thom's stories. In this story, she cured her husband of snoring. [Darith](#Darith), King in one of Thom's stories."
+  },
+  {
+    "id": "Karil",
+    "name": "Karil",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 44 (47)",
+    "info": "Goodwife in one of Thom's stories. In this story, she cured her husband of snoring. [Darith](#Darith), King in one of Thom's stories."
+  },
+  {
+    "id": "Darith",
+    "name": "Darith",
+    "chapter": "Chapter 4: The Gleeman",
+    "page": "p. 44 (47)",
+    "info": "King in one of Thom's stories."
+  },
+  {
+    "id": "Oren-Dautry",
+    "name": "Oren Dautry",
+    "chapter": "Chapter 5: Winternight",
+    "page": "p. 57 (61)",
+    "info": "Nearest neighbor to the al’Thor farm. He is a shameless borrower. Tam thinks he may have some livestock he is willing to part with. [Narg](#Narg), Trolloc among those who attacked Tam and Rand on their farm. He stayed back and played dead when the other Trollocs left the farm—”[Narg](#Narg) stay. [Narg](#Narg) smart.” He has sharp, goat-like hooves. [Narg](#Narg) speaks English, albeit poorly, and he talked to Rand for a short time before Rand killed him with Tam’s sword."
+  },
+  {
+    "id": "Narg",
+    "name": "Narg",
+    "chapter": "Chapter 5: Winternight",
+    "page": "p. 63 (68)",
+    "info": "Trolloc among those who attacked Tam and Rand on their farm. He stayed back and played dead when the other Trollocs left the farm—”Narg stay. Narg smart.” He has sharp, goat-like hooves. Narg speaks English, albeit poorly, and he talked to Rand for a short time before Rand killed him with Tam’s sword."
+  },
+  {
+    "id": "Kari-al-Thor",
+    "name": "Kari al’Thor",
+    "chapter": "Chapter 6: The Westwood",
+    "page": "p. 68 (73)",
+    "info": "Rand's mother. She died about fifteen years ago, when Rand was five. His only memory of her was that she had gentle hands and a soft voice. Tam met her when he left Emond’s Field; they were married outside the Two Rivers and returned later with a child. She had red hair."
+  },
+  {
+    "id": "Laman-Damodred",
+    "name": "Laman Damodred",
+    "chapter": "Chapter 6: The Westwood",
+    "page": "p. 70 (76)",
+    "info": "King of Cairhien before and during the Aiel War, which ended about twenty years ago. He cut down [Avendoraldera](#Avendoraldera), the sapling from the Tree of Life, given to the people of Cairhein hundreds of years ago by the Aiel. This Sin, as it was called, precipitated the Aiel War and led to Laman’s Death."
+  },
+  {
+    "id": "Avendesora",
+    "name": "Avendesora",
+    "chapter": "Chapter 6: The Westwood",
+    "page": "p. 73 (78)",
+    "info": "The Tree of Life of Legend. It leaves no seed, and is guarded by the [Green Man](#Green-Man), at least according to Legend."
+  },
+  {
+    "id": "Avendoraldera",
+    "name": "Avendoraldera",
+    "chapter": "Chapter 6: The Westwood",
+    "page": "p. 73 (78)",
+    "info": "Sapling cut from [Avendesora](#Avendesora), the Legendary Tree of Life. The tree was a gift from the Aiel to the people of Cairhien over a century ago. The tree was cut down by [Laman Damodred](#Laman-Damodred), the King of Cairhien, twenty years ago. Laman’s Sin, as this act is called, ended a century of peace with the Aiel and began the Aiel War."
+  },
+  {
+    "id": "Berin-Thane",
+    "name": "Berin Thane",
+    "chapter": "Chapter 7: Out of the Woods",
+    "page": "p. 77 (82)",
+    "info": "[Jon Thane](#Jon-Thane)'s brother. His house was burned by Trollocs on Winternight. His house is across the street from [Abell Cauthon](#Abell-Cauthon)'s house."
+  },
+  {
+    "id": "Abell-Cauthon",
+    "name": "Abell Cauthon",
+    "chapter": "Chapter 7: Out of the Woods",
+    "page": "p. 77 (82)",
+    "info": "Mat's father. His house was burned when the Trollocs attacked Emond’s Field on Winternight. He has five children."
+  },
+  {
+    "id": "Mistress-Calder",
+    "name": "Mistress Calder",
+    "chapter": "Chapter 7: Out of the Woods",
+    "page": "p. 77 (83)",
+    "info": "Owner of one of the houses that survived Winternight in Emond’s Field. [Darl Coplin](#Darl-Coplin), Man from a farm near Emond’s Field. He spent half the night demanding that Bran al’Vere send Moiraine and Lan away. He blamed them for bringing the Trollocs to Emond’s Field."
+  },
+  {
+    "id": "Darl-Coplin",
+    "name": "Darl Coplin",
+    "chapter": "Chapter 7: Out of the Woods",
+    "page": "p. 82 (88)",
+    "info": "Man from a farm near Emond’s Field. He spent half the night demanding that Bran al’Vere send Moiraine and Lan away. He blamed them for bringing the Trollocs to Emond’s Field."
+  },
+  {
+    "id": "Amyrlin-Seat",
+    "name": "Amyrlin Seat",
+    "chapter": "Chapter 8: A Place of Safety",
+    "page": "p. 91 (97)",
+    "info": "Leader of the Aes Sedai, their equivalent of a king or queen. Her authority is immense—rulers of all nations will obey a summons to the Amyrlin, even if they will spend the entire journey devising a plan to kill her while there. Moiraine says that Egwene may become the Amyrlin Seat some day if she works hard and studies hard enough. Father of Lies , One of the many euphemisms for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Father-of-Lies",
+    "name": "Father of Lies",
+    "chapter": "Chapter 8: A Place of Safety",
+    "page": "p. 96 (103)",
+    "info": "One of the many euphemisms for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Hari-Coplin",
+    "name": "Hari Coplin",
+    "chapter": "Chapter 9: Tellings of the Wheel",
+    "page": "p. 108 (115)",
+    "info": "Darl's brother. He also blames Moiraine for bringing the Trollocs to Emond’s Field."
+  },
+  {
+    "id": "Eward-Candwin",
+    "name": "Eward Candwin",
+    "chapter": "Chapter 9: Tellings of the Wheel",
+    "page": "p. 109 (117)",
+    "info": "Man from Emond’s Field. He got a gash down his back when the Trollocs attacked, but was Healed by Moiraine ."
+  },
+  {
+    "id": "Aemon-al-Caar-al-Thorin",
+    "name": "Aemon al Caar al Thorin",
+    "chapter": "Chapter 9: Tellings of the Wheel",
+    "page": "p. 110 (117)",
+    "info": "King of Manetheren during the last part of the Trolloc Wars, until the fall of his country. He was so fearless that the best compliment that could be delivered to anyone was to say that he had Aemon’s heart. He was a Warder to his Queen, Eldrene ."
+  },
+  {
+    "id": "Caar-al-Thorin-al-Toren",
+    "name": "Caar al Thorin al Toren",
+    "chapter": "Chapter 9: Tellings of the Wheel",
+    "page": "p. 110 (118)",
+    "info": "Aemon's father, Thorin's son. He was heir to the throne of Manetheren."
+  },
+  {
+    "id": "Thorin-al-Toren-al-Ban",
+    "name": "Thorin al Toren al Ban",
+    "chapter": "Chapter 9: Tellings of the Wheel",
+    "page": "p. 110 (118)",
+    "info": "Former King of Manetheren, prior to the Trolloc Wars. He is the father of Caar and the grandfather of Aemon ."
+  },
+  {
+    "id": "Eldrene-ay-Ellan-ay-Carlan",
+    "name": "Eldrene ay Ellan ay Carlan",
+    "chapter": "Chapter 9: Tellings of the Wheel",
+    "page": "p. 110 (118)",
+    "info": "Queen of Manetheren during the Trolloc Wars, wife of Aemon , her Warder. It was said that she was so beautiful flowers bloomed to make her smile. She was also called [Ellisande](#Ellisande), “Rose of the Sun” in the Old Tongue."
+  },
+  {
+    "id": "Ba-alzamon",
+    "name": "Ba’alzamon",
+    "chapter": "Chapter 9: Tellings of the Wheel",
+    "page": "p. 111 (119)",
+    "info": "Ancient name from the Trolloc Tongue, believed to be the Trolloc name for the Dark One . It means “Heart of the Dark,” in the Old Tongue. Ba’alzamon claims to have sent the Trollocs during the Trolloc Wars for over three hundred years, told [Artur Hawkwing](#Artur-Hawkwing) to send armies across the Aryth Ocean, and told the same Hawkwing to refuse the Aes Sedai Healing that could have saved his life and proclaim with his last breath that Tar Valon must fall."
+  },
+  {
+    "id": "Wil-al-Caar",
+    "name": "Wil al’Caar",
+    "chapter": "Chapter 9: Tellings of the Wheel",
+    "page": "p. 113 (121)",
+    "info": "Son of Paet from Emond’s Field. He broke his leg during the Trolloc attack, and was Healed by Moiraine ."
+  },
+  {
+    "id": "Cloud",
+    "name": "Cloud",
+    "chapter": "Chapter 10: Leavetaking",
+    "page": "p. 121 (129)",
+    "info": "Tall gray horse with a black mane and tail. Lan purchased him from [Jon Thane](#Jon-Thane), who used him for racing. Rand rode him out of Emond’s Field."
+  },
+  {
+    "id": "Master-Hightower",
+    "name": "Master Hightower",
+    "chapter": "Chapter 11: The Road to Taren Ferry",
+    "page": "p. 131 (140)",
+    "info": "Man who operates the ferry at Taren Ferry. He has a narrow face with pointed featuress."
+  },
+  {
+    "id": "Mandarb",
+    "name": "Mandarb",
+    "chapter": "Chapter 13: Choices",
+    "page": "p. 146 (157)",
+    "info": "Lan's black stallion. His name means “Blade” in the Old Tongue."
+  },
+  {
+    "id": "Aldieb",
+    "name": "Aldieb",
+    "chapter": "Chapter 13: Choices",
+    "page": "p. 147 (157)",
+    "info": "Moiraine's white mare. Her name means “West [Wind](#Wind)” in the Old Tongue."
+  },
+  {
+    "id": "Kari-Thane",
+    "name": "Kari Thane",
+    "chapter": "Chapter 13: Choices",
+    "page": "p. 153 (163)",
+    "info": "One of Egwene's friends. Egwene asked Moiraine if she can channel when Moiraine said there was another woman in her village who could do so. She does not realize that the woman Moiraine was referring to was Nynaeve ."
+  },
+  {
+    "id": "Lara-Ayellan",
+    "name": "Lara Ayellan",
+    "chapter": "Chapter 13: Choices",
+    "page": "p. 153 (163)",
+    "info": "One of Egwene's friends. Egwene asked Moiraine if she can channel when Moiraine said there was another woman in her village who could do so. She does not realize that the woman Moiraine was referring to was Nynaeve ."
+  },
+  {
+    "id": "Mistress-Alys",
+    "name": "Mistress Alys",
+    "chapter": "Chapter 13: Choices",
+    "page": "p. 155 (166)",
+    "info": "Name Moiraine uses in some cities, including Baerlon. See Damodred, Moiraine . [Master Andra](#Master-Andra), Name Lan uses in some cities, including Baerlon."
+  },
+  {
+    "id": "Master-Andra",
+    "name": "Master Andra",
+    "chapter": "Chapter 13: Choices",
+    "page": "p. 155 (166)",
+    "info": "Name Lan uses in some cities, including Baerlon."
+  },
+  {
+    "id": "Master-Avin",
+    "name": "Master Avin",
+    "chapter": "Chapter 13: Choices",
+    "page": "p. 155 (166)",
+    "info": "Gatekeeper of the south gate of Baerlon. He “forgot” that he let Alys , Andra , and their companions through the gate. [Mutch](#Mutch), Worker at the Stag and Lion in Baerlon. [Master Fitch](#Master-Fitch), Innkeeper of the Stag and Lion, an inn in Baerlon. He has wispy hair that sticks out everywhere."
+  },
+  {
+    "id": "Mutch",
+    "name": "Mutch",
+    "chapter": "Chapter 13: Choices",
+    "page": "p. 160 (171)",
+    "info": "Worker at the Stag and Lion in Baerlon. [Master Fitch](#Master-Fitch), Innkeeper of the Stag and Lion, an inn in Baerlon. He has wispy hair that sticks out everywhere."
+  },
+  {
+    "id": "Master-Fitch",
+    "name": "Master Fitch",
+    "chapter": "Chapter 13: Choices",
+    "page": "p. 160 (171)",
+    "info": "Innkeeper of the Stag and Lion, an inn in Baerlon. He has wispy hair that sticks out everywhere."
+  },
+  {
+    "id": "Elmindreda-(Min)--Farshaw",
+    "name": "Elmindreda (Min)  Farshaw",
+    "chapter": "Chapter 14: The Stag and Lion",
+    "page": "p. 162 (173)",
+    "info": "Elmindreda (Min) Farshaw , Young woman from Baerlon. She has short dark hair that she keeps like most boys her age do. She is slender, and barely taller than Moiraine . Her dark eyes are bigger than Egwene's. She dresses like most boys do, a habit she picked up from her hours in the mines with her father; her mother is dead. Min has a special ability, known to few: she can see images around people that predict their future. Moiraine calls them pieces of the Pattern. She sees a lot of things around Rand and his friends, but she claims that if she told Rand everything she saw about him, he would be as curly-haired as his “friend with the shoulders.” [Ara](#Ara), Dark-haired, slight man from Baerlon. He works at the Stag and Lion for [Master Fitch](#Master-Fitch). [Mari](#Mari), Servant in the kitchen of the Stag and Lion in Baerlon. [Cinda](#Cinda), Servant in the kitchen of the Stag and Lion in Baerlon. [Logain Ablar](#Logain-Ablar), False [Dragon](#Dragon) from Ghealdan. News of his battles in Ghealdan reached Emond’s Field with [Padan Fain](#Padan-Fain) on Winternight—it was probably the last place in this part of the world to hear about it. He can channel the One Power, and has been able to defend himself against the Aes Sedai that are poised to capture and gentle him."
+  },
+  {
+    "id": "Ara",
+    "name": "Ara",
+    "chapter": "Chapter 14: The Stag and Lion",
+    "page": "p. 162 (173)",
+    "info": "Dark-haired, slight man from Baerlon. He works at the Stag and Lion for [Master Fitch](#Master-Fitch). [Mari](#Mari), Servant in the kitchen of the Stag and Lion in Baerlon. [Cinda](#Cinda), Servant in the kitchen of the Stag and Lion in Baerlon. [Logain Ablar](#Logain-Ablar), False [Dragon](#Dragon) from Ghealdan. News of his battles in Ghealdan reached Emond’s Field with [Padan Fain](#Padan-Fain) on Winternight—it was probably the last place in this part of the world to hear about it. He can channel the One Power, and has been able to defend himself against the Aes Sedai that are poised to capture and gentle him."
+  },
+  {
+    "id": "Mari",
+    "name": "Mari",
+    "chapter": "Chapter 14: The Stag and Lion",
+    "page": "p. 166 (178)",
+    "info": "Servant in the kitchen of the Stag and Lion in Baerlon. [Cinda](#Cinda), Servant in the kitchen of the Stag and Lion in Baerlon. [Logain Ablar](#Logain-Ablar), False [Dragon](#Dragon) from Ghealdan. News of his battles in Ghealdan reached Emond’s Field with [Padan Fain](#Padan-Fain) on Winternight—it was probably the last place in this part of the world to hear about it. He can channel the One Power, and has been able to defend himself against the Aes Sedai that are poised to capture and gentle him."
+  },
+  {
+    "id": "Cinda",
+    "name": "Cinda",
+    "chapter": "Chapter 14: The Stag and Lion",
+    "page": "p. 166 (178)",
+    "info": "Servant in the kitchen of the Stag and Lion in Baerlon. [Logain Ablar](#Logain-Ablar), False [Dragon](#Dragon) from Ghealdan. News of his battles in Ghealdan reached Emond’s Field with [Padan Fain](#Padan-Fain) on Winternight—it was probably the last place in this part of the world to hear about it. He can channel the One Power, and has been able to defend himself against the Aes Sedai that are poised to capture and gentle him."
+  },
+  {
+    "id": "Logain-Ablar",
+    "name": "Logain Ablar",
+    "chapter": "Chapter 14: The Stag and Lion",
+    "page": "p. 167 (178)",
+    "info": "False [Dragon](#Dragon) from Ghealdan. News of his battles in Ghealdan reached Emond’s Field with [Padan Fain](#Padan-Fain) on Winternight—it was probably the last place in this part of the world to hear about it. He can channel the One Power, and has been able to defend himself against the Aes Sedai that are poised to capture and gentle him."
+  },
+  {
+    "id": "Heran-Adan",
+    "name": "Heran Adan",
+    "chapter": "Chapter 14: The Stag and Lion",
+    "page": "p. 167 (179)",
+    "info": "Governor of Baerlon. He will not cooperate with the Children of the Light who are in the city. [Davian](#Davian), False [Dragon](#Dragon) of old times. [Ba’alzamon](#Ba-alzamon) claims that he was used by Aes Sedai, just as all other false Dragons were."
+  },
+  {
+    "id": "Davian",
+    "name": "Davian",
+    "chapter": "Chapter 14: The Stag and Lion",
+    "page": "p. 171 (182)",
+    "info": "False [Dragon](#Dragon) of old times. [Ba’alzamon](#Ba-alzamon) claims that he was used by Aes Sedai, just as all other false Dragons were."
+  },
+  {
+    "id": "Yurian-Stonebow",
+    "name": "Yurian Stonebow",
+    "chapter": "Chapter 14: The Stag and Lion",
+    "page": "p. 171 (182)",
+    "info": "False [Dragon](#Dragon) of old times. [Ba’alzamon](#Ba-alzamon) claims that he was used by Aes Sedai, just as all other false Dragons were."
+  },
+  {
+    "id": "Guaire-Amalasan",
+    "name": "Guaire Amalasan",
+    "chapter": "Chapter 14: The Stag and Lion",
+    "page": "p. 171 (182)",
+    "info": "False [Dragon](#Dragon) of old times. [Ba’alzamon](#Ba-alzamon) claims that he was used by Aes Sedai, just as all other false Dragons were."
+  },
+  {
+    "id": "Raolin-Darksbane",
+    "name": "Raolin Darksbane",
+    "chapter": "Chapter 14: The Stag and Lion",
+    "page": "p. 171 (182)",
+    "info": "False [Dragon](#Dragon) of old times. [Ba’alzamon](#Ba-alzamon) claims that he was used by Aes Sedai, just as all other false Dragons were. He has been dead since before the Trolloc Wars, two thousand years ago."
+  },
+  {
+    "id": "Cirri",
+    "name": "Cirri",
+    "chapter": "Chapter 15: Strangers and Friends",
+    "page": "p. 175 (186)",
+    "info": "Cat in the Stag and Lion in Baerlon. She belongs to [Sara](#Sara), the cook."
+  },
+  {
+    "id": "Sara",
+    "name": "Sara",
+    "chapter": "Chapter 15: Strangers and Friends",
+    "page": "p. 175 (186)",
+    "info": "Cook in the Stag and Lion in Baerlon. She threatened to quit when [Master Fitch](#Master-Fitch) relayed people’s complaints about the rats her cat was apparently leaving all over the inn; in reality these rats had their backs broken by [Ba’alzamon](#Ba-alzamon). [Ciel](#Ciel), Waitress and kitchen assistant in the Stag and Lion in Baerlon. [Eward Congar](#Eward-Congar), Man from Emond’s Field who always walks with his nose in the air. He once fell off the Wagon Bridge and had to come home all wet. That chilled him out for about a month, according to Mat ."
+  },
+  {
+    "id": "Ciel",
+    "name": "Ciel",
+    "chapter": "Chapter 15: Strangers and Friends",
+    "page": "p. 176 (187)",
+    "info": "Waitress and kitchen assistant in the Stag and Lion in Baerlon. [Eward Congar](#Eward-Congar), Man from Emond’s Field who always walks with his nose in the air. He once fell off the Wagon Bridge and had to come home all wet. That chilled him out for about a month, according to Mat ."
+  },
+  {
+    "id": "Eward-Congar",
+    "name": "Eward Congar",
+    "chapter": "Chapter 15: Strangers and Friends",
+    "page": "p. 187 (199)",
+    "info": "Man from Emond’s Field who always walks with his nose in the air. He once fell off the Wagon Bridge and had to come home all wet. That chilled him out for about a month, according to Mat ."
+  },
+  {
+    "id": "Dain-Bornhald",
+    "name": "Dain Bornhald",
+    "chapter": "Chapter 15: Strangers and Friends",
+    "page": "p. 188 (200)",
+    "info": "Son of Geofram . He is a little too easily influenced, in his father’s opinion. He was one of the men Mat got all muddy with his barrel stunt in Baerlon."
+  },
+  {
+    "id": "Mavra-Mallen",
+    "name": "Mavra Mallen",
+    "chapter": "Chapter 16: The Wisdom",
+    "page": "p. 200 (213)",
+    "info": "Wisdom of Deven Ride. She came to Emond’s Field to take care of things during Nynaeve's absence."
+  },
+  {
+    "id": "Rogosh-of-Talmour",
+    "name": "Rogosh of Talmour",
+    "chapter": "Chapter 17: Watchers and Hunters",
+    "page": "p. 204 (216)",
+    "info": "Hero of Legend, known as Rogosh Eagle Eye, a man famed at the court of the High King, [Artur Paendrag Tanreall](#Artur-Paendrag-Tanreall), feared on the slopes of Shayol Ghul. He was the greatest of all the Hunters for the Horn. Rogosh Eagle Eye ,  See Rogosh of Talmour . [Blaes of Matuchin](#Blaes-of-Matuchin), Golden-haired hero of Legend. She is in one of Thom Merrilin's stories, “The Bargain of Rogosh Eagle Eye .” [Lian](#Lian), Character in one of Thom's stories, “[Lian](#Lian)’s stand.” [Gaidal Cain](#Gaidal-Cain), Hero of Legend. He appears in several of Thom's stories, including “[Gaidal Cain](#Gaidal-Cain)’s Sword.” [Buad of Albhain](#Buad-of-Albhain), Character from “The Last Ride of [Buad of Albhain](#Buad-of-Albhain),” one of Thom's stories. [Arin](#Arin), Assistant to the watchman at the Caemlyn Gate in Baerlon. [Dar](#Dar), Assistant to the watchman at the Caemlyn Gate in Baerlon."
+  },
+  {
+    "id": "Rogosh-Eagle-Eye",
+    "name": "Rogosh Eagle Eye",
+    "chapter": "Chapter 17: Watchers and Hunters",
+    "page": "p. 204 (216)",
+    "info": "See [Rogosh of Talmour](#Rogosh-of-Talmour). [Blaes of Matuchin](#Blaes-of-Matuchin), Golden-haired hero of Legend. She is in one of Thom Merrilin's stories, “The Bargain of Rogosh Eagle Eye .” [Lian](#Lian), Character in one of Thom's stories, “[Lian](#Lian)’s stand.” [Gaidal Cain](#Gaidal-Cain), Hero of Legend. He appears in several of Thom's stories, including “[Gaidal Cain](#Gaidal-Cain)’s Sword.” [Buad of Albhain](#Buad-of-Albhain), Character from “The Last Ride of [Buad of Albhain](#Buad-of-Albhain),” one of Thom's stories. [Arin](#Arin), Assistant to the watchman at the Caemlyn Gate in Baerlon. [Dar](#Dar), Assistant to the watchman at the Caemlyn Gate in Baerlon."
+  },
+  {
+    "id": "Blaes-of-Matuchin",
+    "name": "Blaes of Matuchin",
+    "chapter": "Chapter 17: Watchers and Hunters",
+    "page": "p. 205 (217)",
+    "info": "Golden-haired hero of Legend. She is in one of Thom Merrilin's stories, “The Bargain of Rogosh Eagle Eye .” [Lian](#Lian), Character in one of Thom's stories, “[Lian](#Lian)’s stand.” [Gaidal Cain](#Gaidal-Cain), Hero of Legend. He appears in several of Thom's stories, including “[Gaidal Cain](#Gaidal-Cain)’s Sword.” [Buad of Albhain](#Buad-of-Albhain), Character from “The Last Ride of [Buad of Albhain](#Buad-of-Albhain),” one of Thom's stories. [Arin](#Arin), Assistant to the watchman at the Caemlyn Gate in Baerlon. [Dar](#Dar), Assistant to the watchman at the Caemlyn Gate in Baerlon."
+  },
+  {
+    "id": "Lian",
+    "name": "Lian",
+    "chapter": "Chapter 17: Watchers and Hunters",
+    "page": "p. 205 (217)",
+    "info": "Character in one of Thom's stories, “Lian’s stand.” [Gaidal Cain](#Gaidal-Cain), Hero of Legend. He appears in several of Thom's stories, including “[Gaidal Cain](#Gaidal-Cain)’s Sword.” [Buad of Albhain](#Buad-of-Albhain), Character from “The Last Ride of [Buad of Albhain](#Buad-of-Albhain),” one of Thom's stories. [Arin](#Arin), Assistant to the watchman at the Caemlyn Gate in Baerlon. [Dar](#Dar), Assistant to the watchman at the Caemlyn Gate in Baerlon."
+  },
+  {
+    "id": "Gaidal-Cain",
+    "name": "Gaidal Cain",
+    "chapter": "Chapter 17: Watchers and Hunters",
+    "page": "p. 205 (217)",
+    "info": "Hero of Legend. He appears in several of Thom's stories, including “Gaidal Cain’s Sword.” [Buad of Albhain](#Buad-of-Albhain), Character from “The Last Ride of [Buad of Albhain](#Buad-of-Albhain),” one of Thom's stories. [Arin](#Arin), Assistant to the watchman at the Caemlyn Gate in Baerlon. [Dar](#Dar), Assistant to the watchman at the Caemlyn Gate in Baerlon."
+  },
+  {
+    "id": "Buad-of-Albhain",
+    "name": "Buad of Albhain",
+    "chapter": "Chapter 17: Watchers and Hunters",
+    "page": "p. 205 (217)",
+    "info": "Character from “The Last Ride of ” one of Thom's stories. [Arin](#Arin), Assistant to the watchman at the Caemlyn Gate in Baerlon. [Dar](#Dar), Assistant to the watchman at the Caemlyn Gate in Baerlon."
+  },
+  {
+    "id": "Arin",
+    "name": "Arin",
+    "chapter": "Chapter 17: Watchers and Hunters",
+    "page": "p. 213 (225)",
+    "info": "Assistant to the watchman at the Caemlyn Gate in Baerlon. [Dar](#Dar), Assistant to the watchman at the Caemlyn Gate in Baerlon."
+  },
+  {
+    "id": "Dar",
+    "name": "Dar",
+    "chapter": "Chapter 17: Watchers and Hunters",
+    "page": "p. 213 (225)",
+    "info": "Assistant to the watchman at the Caemlyn Gate in Baerlon."
+  },
+  {
+    "id": "Ellisande",
+    "name": "Ellisande",
+    "chapter": "Chapter 18: The Caemlyn Road",
+    "page": "p. 223 (237)",
+    "info": "Name by which Queen Eldrene of Manetheren was known. It means “Rose of the Sun” in the Old Tongue. Mat calls her name, without understanding why, as part of the ancient battle cry of Manentheren when he encounters Trollocs north of the Caemlyn road, outside Baerlon. See ay Ellan ay Carlan, Eldrene . [Arad](#Arad), King of old Manetheren. According to Moiraine , his line is strong in the Two Rivers."
+  },
+  {
+    "id": "Arad",
+    "name": "Arad",
+    "chapter": "Chapter 18: The Caemlyn Road",
+    "page": "p. 228 (242)",
+    "info": "King of old Manetheren. According to Moiraine , his line is strong in the Two Rivers."
+  },
+  {
+    "id": "Mordeth",
+    "name": "Mordeth",
+    "chapter": "Chapter 19: Shadow’s Waiting",
+    "page": "p. 237 (250)",
+    "info": "Sleek, overfed man with drooping eyelids. He is short and completely bald. Rand , Mat , and Perrin encountered him in Aridhol when they went off to see the city. In reality, Mordeth was the advisor to Balwen , the last king of Aridhol. He ordered the death of Caar , heir to the throne of Manetheren, when he came to Aridhol in an attempt to bring it back to the Second Covenant. His spirit has been trapped inside the walls of Aridhol ever since, and it is said that if he ever accompanies anyone to the city walls, he will be able to consume that person’s soul and escape."
+  },
+  {
+    "id": "Balwen-Mayel",
+    "name": "Balwen Mayel",
+    "chapter": "Chapter 19: Shadow’s Waiting",
+    "page": "p. 244 (257)",
+    "info": "King of Aridhol before its collapse. During his reign, a man named [Mordeth](#Mordeth) came to be his advisor. [Mordeth](#Mordeth) advised using the Shadow’s tactics, its evil, against it; eventually this evil consumed the city, and only [Mordeth](#Mordeth) survived. He was also known as Balwen Ironhand before [Mordeth](#Mordeth)’s arrival."
+  },
+  {
+    "id": "Balwen-Ironhand",
+    "name": "Balwen Ironhand",
+    "chapter": "Chapter 19: Shadow’s Waiting",
+    "page": "p. 244 (257)",
+    "info": "Nickname given to King Balwen of Aridhol . See Mayel, Balwen . [Caar One-Hand](#Caar-One-Hand), Nickname given to [Caar al Thorin al Toren](#Caar-al-Thorin-al-Toren), heir to the throne of Manetheren. He was imprisoned by Balwen and [Mordeth](#Mordeth) and later escaped, where he met his wife and set into motion the events that destroyed Aridhol. See al Thorin al Toren, Caar ."
+  },
+  {
+    "id": "Caar-One-Hand",
+    "name": "Caar One-Hand",
+    "chapter": "Chapter 19: Shadow’s Waiting",
+    "page": "p. 244 (258)",
+    "info": "Nickname given to [Caar al Thorin al Toren](#Caar-al-Thorin-al-Toren), heir to the throne of Manetheren. He was imprisoned by Balwen and [Mordeth](#Mordeth) and later escaped, where he met his wife and set into motion the events that destroyed Aridhol. See al Thorin al Toren, Caar ."
+  },
+  {
+    "id": "Rhea",
+    "name": "Rhea",
+    "chapter": "Chapter 19: Shadow’s Waiting",
+    "page": "p. 244 (258)",
+    "info": "Wife of Caar , son of Thorin , the king of Manetheren during the time [Mordeth](#Mordeth) was in power in Aridhol. She killed her husband, and after he was buried killed herself upon his grave."
+  },
+  {
+    "id": "Mashadar",
+    "name": "Mashadar",
+    "chapter": "Chapter 19: Shadow’s Waiting",
+    "page": "p. 244 (258)",
+    "info": "The evil that consumed Aridhol, now called Shadar Logoth, during the Trolloc Wars. That evil has made manifest inside the city and resides there, waiting."
+  },
+  {
+    "id": "Floran-Gelb",
+    "name": "Floran Gelb",
+    "chapter": "Chapter 20: Dust on the Wind",
+    "page": "p. 259 (274)",
+    "info": "Crewman on board [Bayle Domon](#Bayle-Domon)'s vessel. Rand landed on top of him when he and his companions leaped onto the boat; Gelb was asleep on his watch."
+  },
+  {
+    "id": "Bayle-Domon",
+    "name": "Bayle Domon",
+    "chapter": "Chapter 20: Dust on the Wind",
+    "page": "p. 259 (274)",
+    "info": "Stocky captain of the Spray , the boat Rand , Mat , and Thom leap on to in order to get from Aridhol to Whitebridge, and away from the Trollocs. He has long hair to his thick shoulders, a round face, and a beard that does not touch his mustache."
+  },
+  {
+    "id": "Elyas-Machera",
+    "name": "Elyas Machera",
+    "chapter": "Chapter 23: Wolfbrother",
+    "page": "p. 284 (303)",
+    "info": "Man who lives in the woods. He has graying brown hair to his waist, held at the neck by a cord. He wears a thick beard across half his chest. He once was a Warder who taught Lan much about the Blight and his sword. He once had to kill other Warders to get away from the [Red](#Red) Ajah. He cannot channel, but he can talk to wolves, an ability which the [Red](#Red) Ajah wanted to do something about anyway. His eyes are yellow, and he can communicate with wolves by way of a kind of telepathy. He lives alone, except for his wolf friends, and never expected to find another who had the same ability—until he met Perrin ."
+  },
+  {
+    "id": "Dapple",
+    "name": "Dapple",
+    "chapter": "Chapter 23: Wolfbrother",
+    "page": "p. 286 (305)",
+    "info": "Wolf that Elyas knows. Her fur fades through a dozen shades of gray. She is the alpha female, the leader of her pack. [Burn](#Burn), Wolf that Elyas knows. He is a grizzled fighter. [Hopper](#Hopper), Wolf that Elyas knows. He is an older wolf, but very smart. He is dedicated to Dapple ; his mission in life is to see that what she wants is carried out. [Wind](#Wind), Wolf that Elyas knows."
+  },
+  {
+    "id": "Burn",
+    "name": "Burn",
+    "chapter": "Chapter 23: Wolfbrother",
+    "page": "p. 286 (305)",
+    "info": "Wolf that Elyas knows. He is a grizzled fighter. [Hopper](#Hopper), Wolf that Elyas knows. He is an older wolf, but very smart. He is dedicated to [Dapple](#Dapple) ; his mission in life is to see that what she wants is carried out. [Wind](#Wind), Wolf that Elyas knows."
+  },
+  {
+    "id": "Hopper",
+    "name": "Hopper",
+    "chapter": "Chapter 23: Wolfbrother",
+    "page": "p. 286 (305)",
+    "info": "Wolf that Elyas knows. He is an older wolf, but very smart. He is dedicated to [Dapple](#Dapple) ; his mission in life is to see that what she wants is carried out. [Wind](#Wind), Wolf that Elyas knows."
+  },
+  {
+    "id": "Wind",
+    "name": "Wind",
+    "chapter": "Chapter 23: Wolfbrother",
+    "page": "p. 286 (305)",
+    "info": "Wolf that Elyas knows."
+  },
+  {
+    "id": "Coramoor",
+    "name": "Coramoor",
+    "chapter": "Chapter 24: Flight Down the Arinelle",
+    "page": "p. 300 (319)",
+    "info": "Man who, according to Sea Folk prophecy, will bring the Atha’an Miere out of the sea."
+  },
+  {
+    "id": "Raen",
+    "name": "Raen",
+    "chapter": "Chapter 25: The Traveling People",
+    "page": "p. 310 (329)",
+    "info": "Madhi (“Seeker”) of a group of Tinkers. He has gray hair, and is married to [Ila](#Ila). He is [Aram](#Aram)'s grandfather. Elyas , Perrin , and Egwene stay with them for a while."
+  },
+  {
+    "id": "Ila",
+    "name": "Ila",
+    "chapter": "Chapter 25: The Traveling People",
+    "page": "p. 311 (330)",
+    "info": "[Raen](#Raen)'s wife. She is a head taller than her husband."
+  },
+  {
+    "id": "Aram",
+    "name": "Aram",
+    "chapter": "Chapter 25: The Traveling People",
+    "page": "p. 311 (331)",
+    "info": "Grandson of [Raen](#Raen) and [Ila](#Ila). He is of an age with Perrin ."
+  },
+  {
+    "id": "Leafblighter",
+    "name": "Leafblighter",
+    "chapter": "Chapter 25: The Traveling People",
+    "page": "p. 316 (336)",
+    "info": "Aiel name for the Dark One . See [Shai’tan](#Shai-tan). Sightburner , Aiel name for the Dark One . See [Shai’tan](#Shai-tan). [He Who Comes With the Dawn](#He-Who-Comes-With-the-Dawn), According to the Aiel Prophecy, the man who will come to unite their people and lead them out of the Waste."
+  },
+  {
+    "id": "Sightburner",
+    "name": "Sightburner",
+    "chapter": "Chapter 25: The Traveling People",
+    "page": "p. 316 (336)",
+    "info": "Aiel name for the Dark One . See [Shai’tan](#Shai-tan). [He Who Comes With the Dawn](#He-Who-Comes-With-the-Dawn), According to the Aiel Prophecy, the man who will come to unite their people and lead them out of the Waste."
+  },
+  {
+    "id": "He-Who-Comes-With-the-Dawn",
+    "name": "He Who Comes With the Dawn",
+    "chapter": "Chapter 25: The Traveling People",
+    "page": "p. 316 (336)",
+    "info": "According to the Aiel Prophecy, the man who will come to unite their people and lead them out of the Waste."
+  },
+  {
+    "id": "Bartim",
+    "name": "Bartim",
+    "chapter": "Chapter 26: Whitebridge",
+    "page": "p. 325 (346)",
+    "info": "Innkeeper of the Wayfarer’s Rest, an inn where Thom , Mat , and Rand stop in Whitebridge. He complains of bad feet. Like Master al’Vere and [Master Fitch](#Master-Fitch), he is fat and losing his hair. [Morgase Trakand](#Morgase-Trakand), By the Grace of the Light, Queen of Andor, Protector of the Realm, Defender of the People, High Seat of House Trakand. She is Elayne and Gawyn's mother."
+  },
+  {
+    "id": "Morgase-Trakand",
+    "name": "Morgase Trakand",
+    "chapter": "Chapter 26: Whitebridge",
+    "page": "p. 325 (346)",
+    "info": "By the Grace of the Light, Queen of Andor, Protector of the Realm, Defender of the People, High Seat of House Trakand. She is Elayne and Gawyn's mother."
+  },
+  {
+    "id": "Owyn-Merrilin",
+    "name": "Owyn Merrilin",
+    "chapter": "Chapter 26: Whitebridge",
+    "page": "p. 332 (353)",
+    "info": "Thom's nephew, his brother’s only son. Thom left his position as Court-bard in the Royal Court of Andor, where he was known from Tear to Maradon as one of the best bards, to help Owyn with some trouble he had with Aes Sedai."
+  },
+  {
+    "id": "Berin",
+    "name": "Berin",
+    "chapter": "Chapter 27: Shelter From the Storm",
+    "page": "p. 339 (362)",
+    "info": "Man whose retreat is the subject of a song the Tinkers sing, “Berin’s Retreat.” It is known in Emond’s Field as “The [Wind](#Wind) From the North.” Heartfang , Name the wolves use for [Ba’alzamon](#Ba-alzamon). See [Ba’alzamon](#Ba-alzamon) ; [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Heartfang",
+    "name": "Heartfang",
+    "chapter": "Chapter 27: Shelter From the Storm",
+    "page": "p. 346 (368)",
+    "info": "Name the wolves use for [Ba’alzamon](#Ba-alzamon). See [Ba’alzamon](#Ba-alzamon) ; [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Master-Aydaer",
+    "name": "Master Aydaer",
+    "chapter": "Chapter 30: Children of Shadow",
+    "page": "p. 374 (400)",
+    "info": "Cabinetmaker of Emond’s Field. He knows the value of good craftsmanshiTall Child of the Light. He has little in the way of human emotions, and thinks nothing of killing people. He hates no one: if he believes they should die, it is only because he thinks they should die, not because he hates them. [Geofram Bornhald](#Geofram-Bornhald), Lord Captain of a band of the Children of the Light. He meets up with Perrin and Egwene in the abandoned stedding ."
+  },
+  {
+    "id": "Jaret-Byar",
+    "name": "Jaret Byar",
+    "chapter": "Chapter 30: Children of Shadow",
+    "page": "p. 375 (401)",
+    "info": "Tall Child of the Light. He has little in the way of human emotions, and thinks nothing of killing people. He hates no one: if he believes they should die, it is only because he thinks they should die, not because he hates them. [Geofram Bornhald](#Geofram-Bornhald), Lord Captain of a band of the Children of the Light. He meets up with Perrin and Egwene in the abandoned stedding ."
+  },
+  {
+    "id": "Geofram-Bornhald",
+    "name": "Geofram Bornhald",
+    "chapter": "Chapter 30: Children of Shadow",
+    "page": "p. 377 (403)",
+    "info": "Lord Captain of a band of the Children of the Light. He meets up with Perrin and Egwene in the abandoned stedding ."
+  },
+  {
+    "id": "Master-Grinwell",
+    "name": "Master Grinwell",
+    "chapter": "Chapter 31: Play for your Supper",
+    "page": "p. 388 (414)",
+    "info": "Sturdy farmer with nine children. His farm is on the Caemlyn road. His eldest daughter, Else , is a year younger than Mat and Rand ."
+  },
+  {
+    "id": "Mistress-Grinwell",
+    "name": "Mistress Grinwell",
+    "chapter": "Chapter 31: Play for your Supper",
+    "page": "p. 388 (414)",
+    "info": "Yellow-haired mistress of the Grinwell farm. She and her husband have nine children, the eldest of which is a year younger than Mat and Rand . She reminds Rand of Mistress al’Vere , except for the color of her hair."
+  },
+  {
+    "id": "Else-Grinwell",
+    "name": "Else Grinwell",
+    "chapter": "Chapter 31: Play for your Supper",
+    "page": "p. 388 (414)",
+    "info": "Dark-haired, big-eyed, pretty daughter of the Grinwell farmers, the eldest of nine. She is nineteen, a year younger than Rand and Mat ."
+  },
+  {
+    "id": "Tarwin",
+    "name": "Tarwin",
+    "chapter": "Chapter 31: Play for your Supper",
+    "page": "p. 389 (416)",
+    "info": "Hero of old and subject of many songs and tales. He has a pass, Tarwin’s Gap, named after him between Shienar and what was once Malkier. [Mistress Aynora](#Mistress-Aynora), Woman with a rooster in a song Rand played at the Grinwell's house. Darling [Sara](#Sara), Subject of a song Rand plays in Arien. He knows it as “Ferry O’er the River,” but the innkeeper there called it “Darling [Sara](#Sara).” [Eazil Forney](#Eazil-Forney), Farmer from near Arien. He was at the inn there, drank too much, and had to stay overnight. The innkeeper asked him to give the entertainment, Rand and Mat , a ride along the road for a ways."
+  },
+  {
+    "id": "Mistress-Aynora",
+    "name": "Mistress Aynora",
+    "chapter": "Chapter 31: Play for your Supper",
+    "page": "p. 389 (416)",
+    "info": "Woman with a rooster in a song Rand played at the Grinwell's house. Darling [Sara](#Sara), Subject of a song Rand plays in Arien. He knows it as “Ferry O’er the River,” but the innkeeper there called it “Darling [Sara](#Sara).” [Eazil Forney](#Eazil-Forney), Farmer from near Arien. He was at the inn there, drank too much, and had to stay overnight. The innkeeper asked him to give the entertainment, Rand and Mat , a ride along the road for a ways."
+  },
+  {
+    "id": "Darling-Sara",
+    "name": "Darling Sara",
+    "chapter": "Chapter 31: Play for your Supper",
+    "page": "p. 390 (417)",
+    "info": "Subject of a song Rand plays in Arien. He knows it as “Ferry O’er the River,” but the innkeeper there called it “Darling [Sara](#Sara).” [Eazil Forney](#Eazil-Forney), Farmer from near Arien. He was at the inn there, drank too much, and had to stay overnight. The innkeeper asked him to give the entertainment, Rand and Mat , a ride along the road for a ways."
+  },
+  {
+    "id": "Eazil-Forney",
+    "name": "Eazil Forney",
+    "chapter": "Chapter 31: Play for your Supper",
+    "page": "p. 391 (417)",
+    "info": "Farmer from near Arien. He was at the inn there, drank too much, and had to stay overnight. The innkeeper asked him to give the entertainment, Rand and Mat , a ride along the road for a ways."
+  },
+  {
+    "id": "Saml-Hake",
+    "name": "Saml Hake",
+    "chapter": "Chapter 32: Four Kings in Shadow",
+    "page": "p. 394 (420)",
+    "info": "Innkeeper of The Dancing Cartman in Four Kings. He is the first skinny innkeeper Rand had ever met, and the only one he did not trust. [Jaim](#Jaim), Subject of a song Rand knows. It is called “Jolly [Jaim](#Jaim)” where Rand learned it, but in Four Kings it is known as “[Rhea](#Rhea)’s Fling.” [Rhea](#Rhea), Subject of a song Rand knows. It is called “Jolly [Jaim](#Jaim)” where Rand learned it, but in Four Kings it is known as “[Rhea](#Rhea)’s Fling.” [Jak](#Jak), Bouncers at The Dancing Cartman. His arms are big enough to be legs. [Strom](#Strom), Bouncers at The Dancing Cartman. His arms are big enough to be legs. [Howal Gode](#Howal-Gode), Merchant from Whitebridge. He wears silk-lined velvet cloaks and velvet slippers. He drives two black coaches. He is also a Darkfriend. [Great Lord of the Dark](#Great-Lord-of-the-Dark), Name used by Darkfriends for the Dark One , claiming that to use his true name would be blasphemy. See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Jaim",
+    "name": "Jaim",
+    "chapter": "Chapter 32: Four Kings in Shadow",
+    "page": "p. 396 (422)",
+    "info": "Subject of a song Rand knows. It is called “Jolly Jaim” where Rand learned it, but in Four Kings it is known as “[Rhea](#Rhea)’s Fling.” [Rhea](#Rhea), Subject of a song Rand knows. It is called “Jolly Jaim” where Rand learned it, but in Four Kings it is known as “[Rhea](#Rhea)’s Fling.” [Jak](#Jak), Bouncers at The Dancing Cartman. His arms are big enough to be legs. [Strom](#Strom), Bouncers at The Dancing Cartman. His arms are big enough to be legs. [Howal Gode](#Howal-Gode), Merchant from Whitebridge. He wears silk-lined velvet cloaks and velvet slippers. He drives two black coaches. He is also a Darkfriend. [Great Lord of the Dark](#Great-Lord-of-the-Dark), Name used by Darkfriends for the Dark One , claiming that to use his true name would be blasphemy. See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Rhea",
+    "name": "Rhea",
+    "chapter": "Chapter 32: Four Kings in Shadow",
+    "page": "p. 396 (422)",
+    "info": "Subject of a song Rand knows. It is called “Jolly [Jaim](#Jaim)” where Rand learned it, but in Four Kings it is known as “Rhea’s Fling.” [Jak](#Jak), Bouncers at The Dancing Cartman. His arms are big enough to be legs. [Strom](#Strom), Bouncers at The Dancing Cartman. His arms are big enough to be legs. [Howal Gode](#Howal-Gode), Merchant from Whitebridge. He wears silk-lined velvet cloaks and velvet slippers. He drives two black coaches. He is also a Darkfriend. [Great Lord of the Dark](#Great-Lord-of-the-Dark), Name used by Darkfriends for the Dark One , claiming that to use his true name would be blasphemy. See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Jak",
+    "name": "Jak",
+    "chapter": "Chapter 32: Four Kings in Shadow",
+    "page": "p. 396 (423)",
+    "info": "Bouncers at The Dancing Cartman. His arms are big enough to be legs. [Strom](#Strom), Bouncers at The Dancing Cartman. His arms are big enough to be legs. [Howal Gode](#Howal-Gode), Merchant from Whitebridge. He wears silk-lined velvet cloaks and velvet slippers. He drives two black coaches. He is also a Darkfriend. [Great Lord of the Dark](#Great-Lord-of-the-Dark), Name used by Darkfriends for the Dark One , claiming that to use his true name would be blasphemy. See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Strom",
+    "name": "Strom",
+    "chapter": "Chapter 32: Four Kings in Shadow",
+    "page": "p. 396 (423)",
+    "info": "Bouncers at The Dancing Cartman. His arms are big enough to be legs. [Howal Gode](#Howal-Gode), Merchant from Whitebridge. He wears silk-lined velvet cloaks and velvet slippers. He drives two black coaches. He is also a Darkfriend. [Great Lord of the Dark](#Great-Lord-of-the-Dark), Name used by Darkfriends for the Dark One , claiming that to use his true name would be blasphemy. See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Howal-Gode",
+    "name": "Howal Gode",
+    "chapter": "Chapter 32: Four Kings in Shadow",
+    "page": "p. 400 (426)",
+    "info": "Merchant from Whitebridge. He wears silk-lined velvet cloaks and velvet slippers. He drives two black coaches. He is also a Darkfriend. [Great Lord of the Dark](#Great-Lord-of-the-Dark), Name used by Darkfriends for the Dark One , claiming that to use his true name would be blasphemy. See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Great-Lord-of-the-Dark",
+    "name": "Great Lord of the Dark",
+    "chapter": "Chapter 32: Four Kings in Shadow",
+    "page": "p. 406 (433)",
+    "info": "Name used by Darkfriends for the Dark One , claiming that to use his true name would be blasphemy. See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Hyam-Kinch",
+    "name": "Hyam Kinch",
+    "chapter": "Chapter 33: The Dark Waits",
+    "page": "p. 409 (436)",
+    "info": "Farmer whose cart Rand and Mat ride after leaving The Queen’s Man, an inn in a town along the Caemlyn road. He is leathery-faced and taciturn. [Breen](#Breen), Person for whom [Breen](#Breen)’s Spring is named. Master Kinch says the Queen’s Guards do not typically patrol past it unless they are called for, unlike things years ago. [Alpert Mull](#Alpert-Mull), Stolid man with a square face and square, worn hands. His cows have gone dry, his chickens have stopped laying eggs, and his pastures have gone barren. He wonders whether his land will even grow hay this year, much less a decent croOld man Mull knows. He let Mull buy half a wagon of hay from him. [Rulan Allwine](#Rulan-Allwine), Stout innkeeper of the inn in Market Sheran, where [Paitr Conel](#Paitr-Conel) meets Rand and Mat . [Paitr Conel](#Paitr-Conel), Darkfriend that Mat and Rand encounter in Market Sheran. [Ackley Farren](#Ackley-Farren), Man who once got drunk and spent the night on the roof of the inn in Market Sheran. [Mother Brune](#Mother-Brune), Wisdom-equivalent in The Queen’s Man, the inn where Rand takes ill. [Master Inlow](#Master-Inlow), Innkeeper at The Queen’s Man, the inn where Rand takes ill. He was willing to treat Rand and crosserf(“Mat”) quite nicely, as long as Mat kept Rand out of the common room."
+  },
+  {
+    "id": "Breen",
+    "name": "Breen",
+    "chapter": "Chapter 33: The Dark Waits",
+    "page": "p. 411 (438)",
+    "info": "Person for whom Breen’s Spring is named. Master Kinch says the Queen’s Guards do not typically patrol past it unless they are called for, unlike things years ago. [Alpert Mull](#Alpert-Mull), Stolid man with a square face and square, worn hands. His cows have gone dry, his chickens have stopped laying eggs, and his pastures have gone barren. He wonders whether his land will even grow hay this year, much less a decent croOld man Mull knows. He let Mull buy half a wagon of hay from him. [Rulan Allwine](#Rulan-Allwine), Stout innkeeper of the inn in Market Sheran, where [Paitr Conel](#Paitr-Conel) meets Rand and Mat . [Paitr Conel](#Paitr-Conel), Darkfriend that Mat and Rand encounter in Market Sheran. [Ackley Farren](#Ackley-Farren), Man who once got drunk and spent the night on the roof of the inn in Market Sheran. [Mother Brune](#Mother-Brune), Wisdom-equivalent in The Queen’s Man, the inn where Rand takes ill. [Master Inlow](#Master-Inlow), Innkeeper at The Queen’s Man, the inn where Rand takes ill. He was willing to treat Rand and crosserf(“Mat”) quite nicely, as long as Mat kept Rand out of the common room."
+  },
+  {
+    "id": "Alpert-Mull",
+    "name": "Alpert Mull",
+    "chapter": "Chapter 33: The Dark Waits",
+    "page": "p. 416 (443)",
+    "info": "Stolid man with a square face and square, worn hands. His cows have gone dry, his chickens have stopped laying eggs, and his pastures have gone barren. He wonders whether his land will even grow hay this year, much less a decent croOld man Mull knows. He let Mull buy half a wagon of hay from him. [Rulan Allwine](#Rulan-Allwine), Stout innkeeper of the inn in Market Sheran, where [Paitr Conel](#Paitr-Conel) meets Rand and Mat . [Paitr Conel](#Paitr-Conel), Darkfriend that Mat and Rand encounter in Market Sheran. [Ackley Farren](#Ackley-Farren), Man who once got drunk and spent the night on the roof of the inn in Market Sheran. [Mother Brune](#Mother-Brune), Wisdom-equivalent in The Queen’s Man, the inn where Rand takes ill. [Master Inlow](#Master-Inlow), Innkeeper at The Queen’s Man, the inn where Rand takes ill. He was willing to treat Rand and crosserf(“Mat”) quite nicely, as long as Mat kept Rand out of the common room."
+  },
+  {
+    "id": "Bain",
+    "name": "Bain",
+    "chapter": "Chapter 33: The Dark Waits",
+    "page": "p. 416 (443)",
+    "info": "Old man Mull knows. He let Mull buy half a wagon of hay from him. [Rulan Allwine](#Rulan-Allwine), Stout innkeeper of the inn in Market Sheran, where [Paitr Conel](#Paitr-Conel) meets Rand and Mat . [Paitr Conel](#Paitr-Conel), Darkfriend that Mat and Rand encounter in Market Sheran. [Ackley Farren](#Ackley-Farren), Man who once got drunk and spent the night on the roof of the inn in Market Sheran. [Mother Brune](#Mother-Brune), Wisdom-equivalent in The Queen’s Man, the inn where Rand takes ill. [Master Inlow](#Master-Inlow), Innkeeper at The Queen’s Man, the inn where Rand takes ill. He was willing to treat Rand and crosserf(“Mat”) quite nicely, as long as Mat kept Rand out of the common room."
+  },
+  {
+    "id": "Rulan-Allwine",
+    "name": "Rulan Allwine",
+    "chapter": "Chapter 33: The Dark Waits",
+    "page": "p. 417 (445)",
+    "info": "Stout innkeeper of the inn in Market Sheran, where [Paitr Conel](#Paitr-Conel) meets Rand and Mat . [Paitr Conel](#Paitr-Conel), Darkfriend that Mat and Rand encounter in Market Sheran. [Ackley Farren](#Ackley-Farren), Man who once got drunk and spent the night on the roof of the inn in Market Sheran. [Mother Brune](#Mother-Brune), Wisdom-equivalent in The Queen’s Man, the inn where Rand takes ill. [Master Inlow](#Master-Inlow), Innkeeper at The Queen’s Man, the inn where Rand takes ill. He was willing to treat Rand and crosserf(“Mat”) quite nicely, as long as Mat kept Rand out of the common room."
+  },
+  {
+    "id": "Paitr-Conel",
+    "name": "Paitr Conel",
+    "chapter": "Chapter 33: The Dark Waits",
+    "page": "p. 419 (447)",
+    "info": "Darkfriend that Mat and Rand encounter in Market Sheran. [Ackley Farren](#Ackley-Farren), Man who once got drunk and spent the night on the roof of the inn in Market Sheran. [Mother Brune](#Mother-Brune), Wisdom-equivalent in The Queen’s Man, the inn where Rand takes ill. [Master Inlow](#Master-Inlow), Innkeeper at The Queen’s Man, the inn where Rand takes ill. He was willing to treat Rand and crosserf(“Mat”) quite nicely, as long as Mat kept Rand out of the common room."
+  },
+  {
+    "id": "Ackley-Farren",
+    "name": "Ackley Farren",
+    "chapter": "Chapter 33: The Dark Waits",
+    "page": "p. 421 (449)",
+    "info": "Man who once got drunk and spent the night on the roof of the inn in Market Sheran. [Mother Brune](#Mother-Brune), Wisdom-equivalent in The Queen’s Man, the inn where Rand takes ill. [Master Inlow](#Master-Inlow), Innkeeper at The Queen’s Man, the inn where Rand takes ill. He was willing to treat Rand and crosserf(“Mat”) quite nicely, as long as Mat kept Rand out of the common room."
+  },
+  {
+    "id": "Mother-Brune",
+    "name": "Mother Brune",
+    "chapter": "Chapter 33: The Dark Waits",
+    "page": "p. 425 (453)",
+    "info": "Wisdom-equivalent in The Queen’s Man, the inn where Rand takes ill. [Master Inlow](#Master-Inlow), Innkeeper at The Queen’s Man, the inn where Rand takes ill. He was willing to treat Rand and crosserf(“Mat”) quite nicely, as long as Mat kept Rand out of the common room."
+  },
+  {
+    "id": "Master-Inlow",
+    "name": "Master Inlow",
+    "chapter": "Chapter 33: The Dark Waits",
+    "page": "p. 425 (453)",
+    "info": "Innkeeper at The Queen’s Man, the inn where Rand takes ill. He was willing to treat Rand and crosserf(“Mat”) quite nicely, as long as Mat kept Rand out of the common room."
+  },
+  {
+    "id": "Raimun-Holdwin",
+    "name": "Raimun Holdwin",
+    "chapter": "Chapter 34: The Last Village",
+    "page": "p. 437 (466)",
+    "info": "Innkeeper from a village near Caemlyn. He is a Darkfriend, and talked to a Myrddraal outside his inn. [Almen Bunt](#Almen-Bunt), Man from the same village as Holdwin . He pretended to be fixing his cart while Holdwin was talking to a Fade, and later found he was looking for Mat and Rand . He later offered the two a ride, since he does not like Holdwin that much and would rather help the boys than the Darkfriend. [Elaida do Avriny a’Roihan](#Elaida-do-Avriny-a-Roihan), Aes Sedai of the [Red](#Red) Ajah and advisor to Queen Morgase of Andor. She sometimes has the Foretelling."
+  },
+  {
+    "id": "Almen-Bunt",
+    "name": "Almen Bunt",
+    "chapter": "Chapter 34: The Last Village",
+    "page": "p. 438 (466)",
+    "info": "Man from the same village as Holdwin . He pretended to be fixing his cart while Holdwin was talking to a Fade, and later found he was looking for Mat and Rand . He later offered the two a ride, since he does not like Holdwin that much and would rather help the boys than the Darkfriend. [Elaida do Avriny a’Roihan](#Elaida-do-Avriny-a-Roihan), Aes Sedai of the [Red](#Red) Ajah and advisor to Queen Morgase of Andor. She sometimes has the Foretelling."
+  },
+  {
+    "id": "Elaida-do-Avriny-a-Roihan",
+    "name": "Elaida do Avriny a’Roihan",
+    "chapter": "Chapter 34: The Last Village",
+    "page": "p. 440 (469)",
+    "info": "Aes Sedai of the [Red](#Red) Ajah and advisor to Queen Morgase of Andor. She sometimes has the Foretelling."
+  },
+  {
+    "id": "Elayne-Trakand",
+    "name": "Elayne Trakand",
+    "chapter": "Chapter 34: The Last Village",
+    "page": "p. 441 (470)",
+    "info": "[Daughter-Heir (of Andor)](#Daughter-Heir-(of-Andor)), daughter of Morgase and sister of Gawyn . She is quite pretty. She is preparing to leave for Tar Valon to undergo novice training, as all daughters-heir of Andor have done since the nation’s founding."
+  },
+  {
+    "id": "Gawyn-Trakand",
+    "name": "Gawyn Trakand",
+    "chapter": "Chapter 34: The Last Village",
+    "page": "p. 441 (470)",
+    "info": "Son of Queen Morgase and brother of Elayne . He will become First Prince of the Sword when his sister ascends to the Throne."
+  },
+  {
+    "id": "Daughter-Heir-(of-Andor)",
+    "name": "Daughter-Heir (of Andor)",
+    "chapter": "Chapter 34: The Last Village",
+    "page": "p. 441 (470)",
+    "info": "According to Andoran tradition, the first-born daughter of the Queen is her heir to the throne. The Daughter-Heir is traditionally sent to Tar Valon to receive training from the Aes Sedai, although until the current Daughter-Heir, Elayne , most have been too weak to get beyond novice training."
+  },
+  {
+    "id": "Luc-Mantear",
+    "name": "Luc Mantear",
+    "chapter": "Chapter 34: The Last Village",
+    "page": "p. 441 (470)",
+    "info": "Son of the Queen of Andor before Morgase was queen. He disappeared into the Blight suddenly, and was never seen again."
+  },
+  {
+    "id": "Tigraine-Mantear",
+    "name": "Tigraine Mantear",
+    "chapter": "Chapter 34: The Last Village",
+    "page": "p. 441 (470)",
+    "info": "[Daughter-Heir (of Andor)](#Daughter-Heir-(of-Andor)) before Morgase became queen, sister of Luc . She disappeared before her mother died, and when she did there was no daughter-heir to take the throne, and the Succession began. There are some who believe she is still alive."
+  },
+  {
+    "id": "Taringail-Damodred",
+    "name": "Taringail Damodred",
+    "chapter": "Chapter 34: The Last Village",
+    "page": "p. 441 (470)",
+    "info": "Tigraine's husband, a prince of Cairhien, half-brother of King Laman . When Tigraine disappeared, he married [Morgase Trakand](#Morgase-Trakand), who had the best claim to the throne. He brought Cairhien into to the plotting surrounding the Succession. He had one child by Tigraine and two by Morgase: Galad , Gawyn , and Elayne . He did not really love either of his wives, his only goal being to see his son sit on the throne of Cairhien and his daughter sit on the throne of Andor."
+  },
+  {
+    "id": "Basel-Gill",
+    "name": "Basel Gill",
+    "chapter": "Chapter 35: Caemlyn",
+    "page": "p. 451 (481)",
+    "info": "Fat, pink-faced innkeeper of The Queen’s Blessing, an inn in Caemlyn. His graying hair is combed back over a bald spot it didn’t quite cover. [Gareth Bryne](#Gareth-Bryne), Captain-General of the Queen’s Guards in Caemlyn."
+  },
+  {
+    "id": "Gareth-Bryne",
+    "name": "Gareth Bryne",
+    "chapter": "Chapter 35: Caemlyn",
+    "page": "p. 455 (485)",
+    "info": "Captain-General of the Queen’s Guards in Caemlyn."
+  },
+  {
+    "id": "Willim-of-Maneches",
+    "name": "Willim of Maneches",
+    "chapter": "Chapter 36: Web of the Pattern",
+    "page": "p. 460 (490)",
+    "info": "Author of a book in [Basel Gill](#Basel-Gill)'s library, The Essays of Willim of Maneches . [Loial](#Loial), Son of Arent son of [Halan](#Halan), an Ogier from Stedding Shangtai. He came to Caemlyn, and took up residence in the library of The Queen’s Blessing. He is about ninety years old, which by Ogier standards is too young to leave the stedding alone, and ten years too young to address the StumElder of Stedding Shangtai, Ogier, and father of [Loial](#Loial). He insisted that [Loial](#Loial) learn Treesinging."
+  },
+  {
+    "id": "Loial",
+    "name": "Loial",
+    "chapter": "Chapter 36: Web of the Pattern",
+    "page": "p. 461 (491)",
+    "info": "Son of Arent son of [Halan](#Halan), an Ogier from Stedding Shangtai. He came to Caemlyn, and took up residence in the library of The Queen’s Blessing. He is about ninety years old, which by Ogier standards is too young to leave the stedding alone, and ten years too young to address the StumElder of Stedding Shangtai, Ogier, and father of Loial . He insisted that Loial learn Treesinging."
+  },
+  {
+    "id": "Elder-Arent",
+    "name": "Elder Arent",
+    "chapter": "Chapter 36: Web of the Pattern",
+    "page": "p. 461 (491)",
+    "info": "Elder of Stedding Shangtai, Ogier, and father of [Loial](#Loial). He insisted that [Loial](#Loial) learn Treesinging."
+  },
+  {
+    "id": "Halan",
+    "name": "Halan",
+    "chapter": "Chapter 36: Web of the Pattern",
+    "page": "p. 461 (491)",
+    "info": "Elder of Stedding Shangtai, Ogier, father of Arent , and grandfather of [Loial](#Loial)."
+  },
+  {
+    "id": "Sightblinder",
+    "name": "Sightblinder",
+    "chapter": "Chapter 36: Web of the Pattern",
+    "page": "p. 464 (495)",
+    "info": "Aiel name for the Dark One . See [Shai’tan](#Shai-tan). [Elder Haman](#Elder-Haman), An Ogier, one of the Elders in Stedding Shangtai . [Loial](#Loial) has great respect for him."
+  },
+  {
+    "id": "Elder-Haman",
+    "name": "Elder Haman",
+    "chapter": "Chapter 36: Web of the Pattern",
+    "page": "p. (496)",
+    "info": "An Ogier, one of the Elders in Stedding Shangtai . [Loial](#Loial) has great respect for him."
+  },
+  {
+    "id": "Mother-Grubb",
+    "name": "Mother Grubb",
+    "chapter": "Chapter 39: Weaving of the Web",
+    "page": "p. 489 (522)",
+    "info": "Woman in Caemlyn who sells herbs and poultices, births babies, tends the sick and tells fortunes. Rand considered asking for her services to help Mat . [Lamgwin Dorn](#Lamgwin-Dorn), Man [Basel Gill](#Basel-Gill) hired to guard his door against anyone who would bring ill to his inn or its guests. He is bulky, and has heavy-lidded eyes. Despite his bulk, he moves like a cat. He thinks Morgase to be the greatest queen in the World."
+  },
+  {
+    "id": "Lamgwin-Dorn",
+    "name": "Lamgwin Dorn",
+    "chapter": "Chapter 39: Weaving of the Web",
+    "page": "p. 490 (523)",
+    "info": "Man [Basel Gill](#Basel-Gill) hired to guard his door against anyone who would bring ill to his inn or its guests. He is bulky, and has heavy-lidded eyes. Despite his bulk, he moves like a cat. He thinks Morgase to be the greatest queen in the World."
+  },
+  {
+    "id": "Lini-Eltring",
+    "name": "Lini Eltring",
+    "chapter": "Chapter 40: The Web Tightens",
+    "page": "p. 501 (536)",
+    "info": "Nurse to Elayne and Morgase during their respective childhoods. Galadedrid (Galad) Damodred , Handsomest man Rand has ever seen. He is tall and slender, and has dark hair and eyes. He is the son of Tigraine and [Taringail Damodred](#Taringail-Damodred), and the half-brother of Elayne and Gawyn ”. He always does the right thing, even if he should not."
+  },
+  {
+    "id": "Galadedrid-(Galad)--Damodred",
+    "name": "Galadedrid (Galad)  Damodred",
+    "chapter": "Chapter 40: The Web Tightens",
+    "page": "p. 503 (538)",
+    "info": "Galadedrid (Galad) Damodred , Handsomest man Rand has ever seen. He is tall and slender, and has dark hair and eyes. He is the son of Tigraine and [Taringail Damodred](#Taringail-Damodred), and the half-brother of Elayne and Gawyn ”. He always does the right thing, even if he should not."
+  },
+  {
+    "id": "Martyn-Tallanvor",
+    "name": "Martyn Tallanvor",
+    "chapter": "Chapter 40: The Web Tightens",
+    "page": "p. 505 (540)",
+    "info": "Guardsman-lieutenant in the Queen’s Guards of Andor. He heads the guards Galad alerts to Rand's presence at the Royal Palace in Caemlyn."
+  },
+  {
+    "id": "Gilda",
+    "name": "Gilda",
+    "chapter": "Chapter 41: Old Friends and New Threats",
+    "page": "p. 522 (557)",
+    "info": "Serving maid in the Queen’s Blessing in Caemlyn. She reports that there are Whitecloaks in the Common Room to Master Gill . Lord of the Grave , Alternative name for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Lord-of-the-Grave",
+    "name": "Lord of the Grave",
+    "chapter": "Chapter 41: Old Friends and New Threats",
+    "page": "p. 530 (566)",
+    "info": "Alternative name for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Balthamel",
+    "name": "Balthamel",
+    "chapter": "Chapter 42: Rememberance of Dreams",
+    "page": "p. 539 (575)",
+    "info": "One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. His name is still used to frighten children. [Demandred](#Demandred), One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. His name is still used to frighten children."
+  },
+  {
+    "id": "Demandred",
+    "name": "Demandred",
+    "chapter": "Chapter 42: Rememberance of Dreams",
+    "page": "p. 539 (575)",
+    "info": "One of the Forsaken, the thirteen Aes Sedai who dedicated their lives to the Shadow during the War of the Shadow. His name is still used to frighten children."
+  },
+  {
+    "id": "Machin-Shin",
+    "name": "Machin Shin",
+    "chapter": "Chapter 43: Decisions and Apparitions",
+    "page": "p. 545 (581)",
+    "info": "The Black [Wind](#Wind). It is a creature of the Ways, perhaps spawned from the taint, perhaps from something else. It wanders the Ways, consuming the souls of those it encounters. Those who make it out after being touched by Machin Shin are soulless, hollow shells—if they make it out at all."
+  },
+  {
+    "id": "Red",
+    "name": "Red",
+    "chapter": "Chapter 44: The Dark Along the Ways",
+    "page": "p. 555 (592)",
+    "info": "Bay Rand borrows from [Basel Gill](#Basel-Gill). His hair is about the same color as Rand’s own hair. [Ramey](#Ramey), Stablehand at The Queen’s Blessing in Caemlyn. [Sheriam Bayanar](#Sheriam-Bayanar), Aes Sedai of the Blue Ajah. Moiraine tells Master Gill to contact her in Tar Valon if he got into any trouble for helping her."
+  },
+  {
+    "id": "Ramey",
+    "name": "Ramey",
+    "chapter": "Chapter 44: The Dark Along the Ways",
+    "page": "p. 555 (592)",
+    "info": "Stablehand at The Queen’s Blessing in Caemlyn. [Sheriam Bayanar](#Sheriam-Bayanar), Aes Sedai of the Blue Ajah. Moiraine tells Master Gill to contact her in Tar Valon if he got into any trouble for helping her."
+  },
+  {
+    "id": "Sheriam-Bayanar",
+    "name": "Sheriam Bayanar",
+    "chapter": "Chapter 44: The Dark Along the Ways",
+    "page": "p. 555 (593)",
+    "info": "Aes Sedai of the Blue Ajah. Moiraine tells Master Gill to contact her in Tar Valon if he got into any trouble for helping her."
+  },
+  {
+    "id": "Agelmar-Jagad",
+    "name": "Agelmar Jagad",
+    "chapter": "Chapter 45: What Follows in Shadow",
+    "page": "p. 577 (615)",
+    "info": "Lord of Fal Dara in Shienar. His head is shaved in the traditional Shienaran style, bare except for a topknot, and that completely white. He has brown eyes, and his face is as stony as Lan's."
+  },
+  {
+    "id": "Dai-Shan",
+    "name": "Dai Shan",
+    "chapter": "Chapter 46: Fal Dara",
+    "page": "p. 583 (621)",
+    "info": "Title used by those in the Borderlands for Lan , as well as others such as Agelmar . The title is that of the Diademed Battle Lords, the generals of the Borderlands."
+  },
+  {
+    "id": "Ragan",
+    "name": "Ragan",
+    "chapter": "Chapter 46: Fal Dara",
+    "page": "p. 583 (621)",
+    "info": "Soldier from Shienar. He asked Lan , eagerly, if the Golden Crane would fly again. [Ingtar Shinowa](#Ingtar-Shinowa), Soldier from Shienar. His hair is arranged in the Shienaran warrior style, shaved except for a topknot. He is one of the officers under Agelmar ."
+  },
+  {
+    "id": "Ingtar-Shinowa",
+    "name": "Ingtar Shinowa",
+    "chapter": "Chapter 46: Fal Dara",
+    "page": "p. 584 (623)",
+    "info": "Soldier from Shienar. His hair is arranged in the Shienaran warrior style, shaved except for a topknot. He is one of the officers under Agelmar ."
+  },
+  {
+    "id": "al-Akir-Mandragoran",
+    "name": "al’Akir Mandragoran",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 595 (635)",
+    "info": "Last crowned king of Malkier, Lan's father. He died, with his country, the day the Trollocs attacked Malkier."
+  },
+  {
+    "id": "Lain-Mandragoran",
+    "name": "Lain Mandragoran",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 595 (635)",
+    "info": "Akir's brother, Lan's uncle. He was married to Breyan . His brother and he were as close as twins, and never let even Akir’s becoming king get in the way. His wife, however, was jealous of Akir, and dared her husband to march his men all the way to Shayol Ghul itself, hoping to use the inevitable defeat as cause to pull Akir off the throne. Lain died in the Blasted Lands."
+  },
+  {
+    "id": "Breyan-Mandragoran",
+    "name": "Breyan Mandragoran",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 595 (635)",
+    "info": "Lain's wife. She was furious that her husband was not chosen as king of Malkier over her brother-in-law Akir ; she dared her husband to march his men to Shayol Ghul itself. When they were defeated, she attempted to frame Akir, saying that if he had brought the rest of the men of Malkier, Shayol Ghul would have fallen. She then plotted with Cowin Fairheart to attempt to seize the throne of Malkier for her son, Isam . Breyan fled Malkier when it fell to the Shadow, disappeared with Isam into the Blight, and was never seen again."
+  },
+  {
+    "id": "el-Leanna-ti-Mandragoran",
+    "name": "el’Leanna ti Mandragoran",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 596 (635)",
+    "info": "Queen of Malkier before it was overrun. She was Akir's wife, and Lan's father. She died, with her husband and country, the day the Trollocs overran Malkier."
+  },
+  {
+    "id": "Cowin-Gemallen",
+    "name": "Cowin Gemallen",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 596 (635)",
+    "info": "Man who plotted with Breyan to seize the throne of Malkier for her son Isam . He was almost made King of Malkier himself—if two people had voted the other way on the council, he would have been. Unknown to everyone until shortly before the fall of Malkier, he was a Darkfriend. When they found out, many called for his head on a pike, but as he was so close to the king, he instead was allowed to duel with the king, and was slain by Akir . Also called Cowin Fairheart."
+  },
+  {
+    "id": "Cowin-Fairheart",
+    "name": "Cowin Fairheart",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 596 (635)",
+    "info": "See Gemallen, Cowin . [Isam Mandragoran](#Isam-Mandragoran), Infant son of Lain and Breyan . His mother’s attempt to seize the throne of Malkier for him ended in the fall of Malkier itself; Isam and Breyan disappeared into the Blight and were never heard from again."
+  },
+  {
+    "id": "Isam-Mandragoran",
+    "name": "Isam Mandragoran",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 596 (635)",
+    "info": "Infant son of Lain and Breyan . His mother’s attempt to seize the throne of Malkier for him ended in the fall of Malkier itself; Isam and Breyan disappeared into the Blight and were never heard from again."
+  },
+  {
+    "id": "Jain-Charin",
+    "name": "Jain Charin",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 598 (635)",
+    "info": "Makieri hero who captured Cowin Fairheart and brought him back to the Seven Towers for justice. He was already called Farstrider at that point."
+  },
+  {
+    "id": "Herot",
+    "name": "Herot",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 598 (636)",
+    "info": "Hero of old. He has a crossing in Malkier named after him. [Jehaan](#Jehaan), Hero of old. He has a landmark in Malkier named after him: the Stair of [Jehaan](#Jehaan), the place where the last of the Malkieri gave their lives in a futile attempt to save their nation. Heartsbane , Alternative name for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Jehaan",
+    "name": "Jehaan",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 598 (636)",
+    "info": "Hero of old. He has a landmark in Malkier named after him: the Stair of  the place where the last of the Malkieri gave their lives in a futile attempt to save their nation. Heartsbane , Alternative name for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Heartsbane",
+    "name": "Heartsbane",
+    "chapter": "Chapter 47: More Tales of the Wheel",
+    "page": "p. 601 (641)",
+    "info": "Alternative name for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Easar-Togita",
+    "name": "Easar Togita",
+    "chapter": "Chapter 48: The Blight",
+    "page": "p. 607 (647)",
+    "info": "King of Shienar. His capital is in Fal Moran."
+  },
+  {
+    "id": "Treebrother",
+    "name": "Treebrother",
+    "chapter": "Chapter 49: The Dark One Stirs",
+    "page": "p. 622 (663)",
+    "info": "What [Loial](#Loial) calls the [Green Man](#Green-Man). See [Green Man](#Green-Man)."
+  },
+  {
+    "id": "Toma-dur-Ahmid",
+    "name": "Toma dur Ahmid",
+    "chapter": "Glossary",
+    "page": "p. 658 (703)",
+    "info": "Person who devised the Toman Calendar, which was adopted approximately two hundred years after the death of the last male Aes Sedai and continued until the Trolloc Wars. The Calendar recorded years After the Breaking, or AB. [Tiam of Gazar](#Tiam-of-Gazar), Person who proposed the Gazaran Calendar, which celebrated the alleged freedom from the Trolloc threat by recording Free Years (FY). This calendar was adopted due to the chaos the resulted during the Trolloc Wars and the resulting confusion as to which year it actually was under the Toman Calendar. [Uren din Jubai Soaring Gull](#Uren-din-Jubai-Soaring-Gull), Sea Folk scholar and deviser of the [Farede](#Farede) Calendar, which measured dates from the arbitrarily set end of the War of the Hundred Years as years of the New Era (NE). This calendar is currently in use. [Farede](#Farede), Panarch of Tarabon near the end of the War of the Hundred Years. She was responsible for promulgating the calendar that now bears her name, which measures years of the New Era (NE), the first of which marked the (arbitrary) end of the War. [Lothair Mantelar](#Lothair-Mantelar), Author of The Way of the Light and founder of the Children of the Light. Grassburner , Name, used especially by Aiel, for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Tiam-of-Gazar",
+    "name": "Tiam of Gazar",
+    "chapter": "Glossary",
+    "page": "p. 658 (703)",
+    "info": "Person who proposed the Gazaran Calendar, which celebrated the alleged freedom from the Trolloc threat by recording Free Years (FY). This calendar was adopted due to the chaos the resulted during the Trolloc Wars and the resulting confusion as to which year it actually was under the Toman Calendar. [Uren din Jubai Soaring Gull](#Uren-din-Jubai-Soaring-Gull), Sea Folk scholar and deviser of the [Farede](#Farede) Calendar, which measured dates from the arbitrarily set end of the War of the Hundred Years as years of the New Era (NE). This calendar is currently in use. [Farede](#Farede), Panarch of Tarabon near the end of the War of the Hundred Years. She was responsible for promulgating the calendar that now bears her name, which measures years of the New Era (NE), the first of which marked the (arbitrary) end of the War. [Lothair Mantelar](#Lothair-Mantelar), Author of The Way of the Light and founder of the Children of the Light. Grassburner , Name, used especially by Aiel, for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Uren-din-Jubai-Soaring-Gull",
+    "name": "Uren din Jubai Soaring Gull",
+    "chapter": "Glossary",
+    "page": "p. 658 (703)",
+    "info": "Sea Folk scholar and deviser of the [Farede](#Farede) Calendar, which measured dates from the arbitrarily set end of the War of the Hundred Years as years of the New Era (NE). This calendar is currently in use. [Farede](#Farede), Panarch of Tarabon near the end of the War of the Hundred Years. She was responsible for promulgating the calendar that now bears her name, which measures years of the New Era (NE), the first of which marked the (arbitrary) end of the War. [Lothair Mantelar](#Lothair-Mantelar), Author of The Way of the Light and founder of the Children of the Light. Grassburner , Name, used especially by Aiel, for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Farede",
+    "name": "Farede",
+    "chapter": "Glossary",
+    "page": "p. 658 (703)",
+    "info": "Panarch of Tarabon near the end of the War of the Hundred Years. She was responsible for promulgating the calendar that now bears her name, which measures years of the New Era (NE), the first of which marked the (arbitrary) end of the War. [Lothair Mantelar](#Lothair-Mantelar), Author of The Way of the Light and founder of the Children of the Light. Grassburner , Name, used especially by Aiel, for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Lothair-Mantelar",
+    "name": "Lothair Mantelar",
+    "chapter": "Glossary",
+    "page": "p. 661 (707)",
+    "info": "Author of The Way of the Light and founder of the Children of the Light. Grassburner , Name, used especially by Aiel, for the Dark One . See [Shai’tan](#Shai-tan)."
+  },
+  {
+    "id": "Grassburner",
+    "name": "Grassburner",
+    "chapter": "Glossary",
+    "page": "p. 661 (707)",
+    "info": "Name, used especially by Aiel, for the Dark One . See [Shai’tan](#Shai-tan)."
+  }
+]
