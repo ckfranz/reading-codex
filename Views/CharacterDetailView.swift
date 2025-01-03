@@ -1,9 +1,11 @@
 import SwiftUI
 
+@available(iOS 15.0, *)
 struct CharacterDetailView: View {
     let character: Character
     let allCharacters: [Character] // Pass all characters to resolve links
-    
+    @EnvironmentObject var router: AppRouter
+
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 16) {
@@ -11,92 +13,81 @@ struct CharacterDetailView: View {
                     .font(.largeTitle)
                     .bold()
                 
-                Text(character.chapter)
-                    .font(.headline)
-                    .padding(.top)
-                
                 infoTextView
-                    .font(.body)
-                    .foregroundColor(.secondary)
             }
+            .frame(maxWidth: .infinity, alignment: .leading) // Ensure content aligns to the left
             .padding()
         }
         .navigationTitle(character.name)
         .navigationBarTitleDisplayMode(.inline)
-    }
-    
-    private var infoTextView: some View {
-        let components = parseInfo(character.info)
-        return VStack(alignment: .leading, spacing: 8) {
-            ForEach(components, id: \.self) { component in
-                if let linkedCharacter = component.linkedCharacter {
-                    NavigationLink(destination: CharacterDetailView(character: linkedCharacter, allCharacters: allCharacters)) {
-                        Text(component.text)
-                            .foregroundColor(.blue)
-                            
-                    }
-                } else {
-                    Text(component.text)
-                }
-            }
+        .onOpenURL { url in
+            handleLinkTap(url: url)
         }
     }
-    
-    private func parseInfo(_ info: String) -> [InfoComponent] {
-        var components: [InfoComponent] = []
-        let regex = try! NSRegularExpression(pattern: #"\[(.*?)\]\(#(.*?)\)"#, options: [])
-        let matches = regex.matches(in: info, options: [], range: NSRange(location: 0, length: info.utf16.count))
+
+    private func handleLinkTap(url: URL) {
+        let id = url.lastPathComponent
+        if let selectedCharacter = allCharacters.first(where: { $0.id == id }) {
+            router.navigateToCharacter(selectedCharacter)
+        }
+    }
+
+    private var infoTextView: some View {
+        let attributedString = buildAttributedString(from: character.info)
+        return Text(attributedString)
+            .frame(maxWidth: .infinity, alignment: .leading) // Align text to the left
+    }
+
+    private func buildAttributedString(from info: String) -> AttributedString {
+        var attributedString = AttributedString()
+        
+        let linkRegex = try! NSRegularExpression(pattern: #"\[(.*?)\]\(#(.*?)\)"#, options: [])
+        let italicRegex = try! NSRegularExpression(pattern: #"\_(.*?)\_"#, options: [])
+        let combinedRegex = try! NSRegularExpression(pattern: #"\[(.*?)\]\(#(.*?)\)|\_(.*?)\_"#, options: [])
+        
+        let matches = combinedRegex.matches(in: info, options: [], range: NSRange(location: 0, length: info.utf16.count))
         
         var currentIndex = info.startIndex
         for match in matches {
             if let range = Range(match.range(at: 0), in: info) {
-                // Add plain text before the match
                 let beforeText = String(info[currentIndex..<range.lowerBound])
                 if !beforeText.isEmpty {
-                    components.append(InfoComponent(text: beforeText))
+                    attributedString.append(AttributedString(beforeText))
                 }
                 
-                // Add linked text
-                if let nameRange = Range(match.range(at: 1), in: info),
+                if match.range(at: 1).location != NSNotFound,
+                   let nameRange = Range(match.range(at: 1), in: info),
                    let idRange = Range(match.range(at: 2), in: info) {
+                    
                     let name = String(info[nameRange])
                     let id = String(info[idRange])
-                    let linkedCharacter = allCharacters.first { $0.id == id }
-                    components.append(InfoComponent(text: name, linkedCharacter: linkedCharacter))
+                    
+                    if let linkedCharacter = allCharacters.first(where: { $0.id == id }) {
+                        var linkText = AttributedString(name)
+                        linkText.foregroundColor = .blue
+                        linkText.link = URL(string: "myappurl://character/\(linkedCharacter.id)")
+                        attributedString.append(linkText)
+                    } else {
+                        attributedString.append(AttributedString(name))
+                    }
+                    
+                } else if match.range(at: 3).location != NSNotFound,
+                          let italicRange = Range(match.range(at: 3), in: info) {
+                    
+                    let italicText = String(info[italicRange])
+                    var italicAttributedString = AttributedString(italicText)
+                    italicAttributedString.font = Font.body.italic()
+                    attributedString.append(italicAttributedString)
                 }
                 
-                // Update the current index
                 currentIndex = range.upperBound
             }
         }
         
-        // Add any remaining plain text
         if currentIndex < info.endIndex {
-            components.append(InfoComponent(text: String(info[currentIndex...])))
+            attributedString.append(AttributedString(String(info[currentIndex...])))
         }
         
-        return components
-    }
-}
-
-// Helper struct to handle parsed text
-struct InfoComponent: Hashable {
-    let text: String
-    let linkedCharacter: Character?
-
-    init(text: String, linkedCharacter: Character? = nil) {
-        self.text = text
-        self.linkedCharacter = linkedCharacter
-    }
-    
-    // Conformance to Equatable (automatically handled by Hashable in modern Swift)
-    static func == (lhs: InfoComponent, rhs: InfoComponent) -> Bool {
-        return lhs.text == rhs.text && lhs.linkedCharacter?.id == rhs.linkedCharacter?.id
-    }
-    
-    // Conformance to Hashable
-    func hash(into hasher: inout Hasher) {
-        hasher.combine(text)
-        hasher.combine(linkedCharacter?.id) // Use `id` to uniquely identify linkedCharacter
+        return attributedString
     }
 }

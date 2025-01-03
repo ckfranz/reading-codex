@@ -7,12 +7,28 @@
 
 import SwiftUI
 
+@available(iOS 16.0, *)
 struct ContentView: View {
+    @StateObject private var router = AppRouter()
+    
     var body: some View {
-        BookSelectionView()
+        NavigationStack(path: $router.path) {
+            BookSelectionView()
+                .navigationDestination(for: Book.self) { book in
+                    BookDetailView(book: book)
+                }
+                .navigationDestination(for: Book.self) { book in
+                    CharacterListView(book: book, charactersViewModel: CharactersViewModel())
+                }
+                .navigationDestination(for: Character.self) { character in
+                    CharacterDetailView(character: character, allCharacters: router.allCharacters)
+                }
+        }
+        .environmentObject(router) // Provide the router to the environment
     }
 }
 
+@available(iOS 16.0, *)
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
@@ -23,57 +39,54 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 struct SearchBar: View {
-    
     @Binding var searchText: String
     @Binding var isSearching: Bool
-    
+
     var body: some View {
         HStack {
             HStack {
                 TextField("Search characters here", text: $searchText)
                     .padding(.leading, 24)
+                    .onTapGesture {
+                        isSearching = true
+                    }
             }
             .padding()
+            .frame(height:34) // Adjust the height here
             .background(Color(.systemGray5))
-            .frame(height: 40.0)
             .cornerRadius(6)
-            .padding(.horizontal)
-            .onTapGesture(perform: {
-                isSearching = true
-            })
             .overlay(
                 HStack {
                     Image(systemName: "magnifyingglass")
+                        .padding(.leading, 8)
+                        .foregroundColor(.gray)
+                    
                     Spacer()
                     
-                    if isSearching {
-                        Button(action: { searchText = "" }, label: {
+                    if !searchText.isEmpty {
+                        Button(action: {
+                            searchText = ""
+                        }) {
                             Image(systemName: "xmark.circle.fill")
-                                .padding(.vertical)
-                        })
-                        
+                                .foregroundColor(.gray)
+                                .padding(.trailing, 8)
+                        }
                     }
-                    
-                }.padding(.horizontal, 32)
-                .foregroundColor(.gray)
-            ).transition(.move(edge: .trailing))
-            .animation(.spring())
-            
-            
+                }
+            )
+            .padding(.horizontal)
+
             if isSearching {
                 Button(action: {
                     isSearching = false
                     searchText = ""
-                    
                     UIApplication.shared.sendAction(#selector(UIResponder.resignFirstResponder), to: nil, from: nil, for: nil)
-                    
-                }, label: {
+                }) {
                     Text("Cancel")
-                        .padding(.trailing)
-                        .padding(.leading, 0)
-                })
+                        .padding(.trailing, 8)
+                }
                 .transition(.move(edge: .trailing))
-                .animation(.spring())
+                .animation(.spring(), value: isSearching)
             }
         }
     }
