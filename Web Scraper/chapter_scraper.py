@@ -184,7 +184,7 @@ for book_url in book_chapter_summary_links:
                 # extract setting description
                 current_setting = text.replace("Setting:", "").strip()
 
-            elif not ("Characters:" in text or "Setting:" in text):
+            elif not ("Characters:" in text or "<< Previous Chapter" in text):
                 if text:
                     current_summary.append(text)
 
