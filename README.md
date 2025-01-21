@@ -1,6 +1,4 @@
-<img src="Images/WOTapp.png" alt="Title">
-<!-- <img src="Images/Header.png" alt="Title" width="800"> -->
-<!-- <img src="Images/App.png" alt="Title" width="800"> -->
+![WOTapp](https://github.com/user-attachments/assets/d5cf5646-b0bd-4932-9756-837bff7641e9)
 
 ### The App
 
