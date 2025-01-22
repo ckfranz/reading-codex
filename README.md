@@ -69,3 +69,4 @@ Reading Codex allows users to track their progress, refresh with chapter recaps,
 - Book Cover art: Created by Darrel K. Sweet and Michael Whelan
 - Chapter icons: https://jcsalomon.github.io/wot-chapter-icons/
   - This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/)
+- Map Artwork: [Dimension Door](https://linktr.ee/dimensiondoormaps)
